@@ -20,14 +20,13 @@ client.on("ready", () => {
 const prefix = "!";
 
 client.on("message", async (message) => {
-  if (!message.content.startsWith(prefix)) return;
+  if (!message.content.startsWith(prefix) || message.author.bot || message.author.username !== 'Hary Dhimas Prakoso') return;
 
   const args = getArgs(message, prefix);
   const command = getCommand(message, prefix);
-
+  console.log(command, args)
   switch (command) {
     case "change":
-      // kekurangan cara ini members didapat dari hasil cache jadi bisa saja members yang di get belum terupdate
       try {
         if (args.length !== 2) {
           message.channel.send("invalid arguments");
@@ -46,8 +45,6 @@ client.on("message", async (message) => {
       clear(message);
       break;
     case "change2":
-      // kelebihan cara ini members didapat dari hasil cache jadi members sudah paling terupdate
-      // kekurangan tidak bisa findbyRole jadi musti satu2 di cek rolenya , members dapet semua members di guild
       try {
         if (args.length !== 2) {
           message.channel.send("invalid arguments");
@@ -82,19 +79,19 @@ client.on("message", async (message) => {
           return console.log(`invalid arguments`);
         }
         const username = args.join(' ')
-        console.log(username)
         const member = await message.guild.members.fetch({
-          user: {
-            username
-          },
-          force: true,
-          limit: 1
+          query: username,
+          force: true
         });
         console.log(member)
+        //console.log(member.first().roles.add('773149870907326485'))
       } catch (error) {
         console.log(error);
       }
     break;
+    case "uprole":
+      message.channel.send("comming soon!");
+    break
     default:
       break;
   }
