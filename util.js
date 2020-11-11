@@ -20,8 +20,13 @@ function getCommand(message, prefix) {
 
 async function getRoleId(guild, role) {
   try {
-    const { id } = await guild.roles.cache.find((r) => r.name === role);
-    return id;
+    const data = await guild.roles.cache.find((r) => r.name === role);
+    if (!data) {
+      throw {
+        msg: "role not found",
+      };
+    }
+    return data.id;
   } catch (error) {
     throw error;
   }
@@ -53,6 +58,27 @@ async function changeMembersRole(members, roleId, roleUpdateId) {
   }
 }
 
+async function roleId(guild, status) {
+  let realStatus;
+  if (status === "p0") {
+    realStatus = `student-phase0`;
+  } else if (status === "p1") {
+    realStatus = `student-phase1`;
+  } else if (status === "p2") {
+    realStatus = `student-phase2`;
+  } else if (status === "p3") {
+    realStatus = `student-phase3`;
+  } else if (status === "alumni") {
+    realStatus = `student-alumni`;
+  }
+  try {
+    let id = await getRoleId(guild, realStatus);
+    return id;
+  } catch (error) {
+    throw error;
+  }
+}
+
 module.exports = {
   clear,
   getArgs,
@@ -60,4 +86,5 @@ module.exports = {
   getRoleId,
   getMembersWithRole,
   changeMembersRole,
+  roleId,
 };

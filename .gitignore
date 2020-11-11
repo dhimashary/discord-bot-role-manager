@@ -3,3 +3,10 @@ node_modules
 .env
 app.js
 test.js
+coba
+p0.json
+p0-invalid.json
+p1.json
+p1-invalid.json
+p2.json
+p2-invalid.json
