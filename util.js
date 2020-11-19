@@ -79,6 +79,31 @@ async function roleId(guild, status) {
   }
 }
 
+async function updatedRoleId(guild, status) {
+  let realStatus;
+  if (status === "p0") {
+    realStatus = `student-phase1`;
+  } else if (status === "p1") {
+    realStatus = `student-phase2`;
+  } else if (status === "p2") {
+    realStatus = `student-phase3`;
+  } else if (status === "p3") {
+    realStatus = `student-alumni`;
+  } else if (status === "alumni") {
+    realStatus = `kick`;
+  }
+  if (realStatus !== 'kick') {
+    try {
+      let id = await getRoleId(guild, realStatus);
+      return id;
+    } catch (error) {
+      throw error;
+    }
+  } else {
+    return 'kick'
+  }
+}
+
 module.exports = {
   clear,
   getArgs,
@@ -87,4 +112,5 @@ module.exports = {
   getMembersWithRole,
   changeMembersRole,
   roleId,
+  updatedRoleId
 };

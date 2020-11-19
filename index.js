@@ -14,6 +14,7 @@ const {
   getArgs,
   getCommand,
   getRoleId,
+  updatedRoleId,
   getMembersWithRole,
 } = require("./util");
 
@@ -115,6 +116,7 @@ client.on("message", async (message) => {
           message.channel.send("invalid param");
         }
         const id = await roleId(message.guild, args[0]);
+        const updateToId = await updatedRoleId(message.guild, args[0]);
         const { data } = await axios({
           method: "post",
           url: process.env.PIPEDREAM_URL,
@@ -135,19 +137,22 @@ client.on("message", async (message) => {
             sheetData: isExist,
           };
           if (isExist.length === 1) {
+            // remove role and add role here if student passed
             validMember.push(memberData);
           } else {
             invalidMember.push(memberData);
-            // remove role and add role here
           }
         });
-        fs.writeFileSync(`${args[0]}.json`, JSON.stringify(validMember, null, 2));
+        fs.writeFileSync(
+          `${args[0]}.json`,
+          JSON.stringify(validMember, null, 2)
+        );
         fs.writeFileSync(
           `${args[0]}-invalid.json`,
           JSON.stringify(invalidMember, null, 2)
         );
       } catch (error) {
-        console.log(error)
+        console.log(error);
       }
       // message.channel.send("fetch done");
       break;
