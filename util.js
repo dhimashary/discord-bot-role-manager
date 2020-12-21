@@ -49,10 +49,24 @@ async function getMembersWithRole(guild, roleId) {
 
 async function changeMembersRole(members, roleId, roleUpdateId) {
   try {
-    members.forEach(async (member) => {
-      await member.roles.remove(roleId);
-      await member.roles.add(roleUpdateId);
+    const promises = []
+    members.forEach((member) => {
+      promises.push(member.roles.remove(roleId));
+      promises.push(member.roles.add(roleUpdateId));
     });
+    return Promise.all(promises)
+  } catch (error) {
+    throw error;
+  }
+}
+
+async function kickMembers(members) {
+  try {
+    const promises = []
+    members.forEach((member) => {
+      promises.push(member.kick());
+    });
+    return Promise.all(promises)
   } catch (error) {
     throw error;
   }
@@ -70,6 +84,8 @@ async function roleId(guild, status) {
     realStatus = `student-phase3`;
   } else if (status === "alumni") {
     realStatus = `student-alumni`;
+  } else if (status === "new") {
+    realStatus = `new-student!`
   }
   try {
     let id = await getRoleId(guild, realStatus);
@@ -81,7 +97,9 @@ async function roleId(guild, status) {
 
 async function updatedRoleId(guild, status) {
   let realStatus;
-  if (status === "p0") {
+  if (status === "new") {
+    realStatus = "student-phase0"
+  } else if (status === "p0") {
     realStatus = `student-phase1`;
   } else if (status === "p1") {
     realStatus = `student-phase2`;
@@ -112,5 +130,6 @@ module.exports = {
   getMembersWithRole,
   changeMembersRole,
   roleId,
-  updatedRoleId
+  updatedRoleId,
+  kickMembers
 };

@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "username": "Ramadhian Yumarestu",
+      "unique": "6474",
+      "id": "708010010503938199",
+      "nickname": null,
+      "sheetData": [
+        {
+          "name": "Ramadhian Yumarestu",
+          "discordName": "708010010503938199",
+          "status": "WITHDRAW",
+          "github": "Ramadhian Yumarestu"
+        }
+      ]
+    },
+    {
+      "username": "Husnul Aqib",
+      "unique": "4632",
+      "id": "694622859967987802",
+      "nickname": null,
+      "sheetData": [
+        {
+          "name": "Husnul Aqib",
+          "discordName": "694622859967987802",
+          "status": "WITHDRAW",
+          "github": "hushaqib"
+        }
+      ]
+    },
+    {
+      "username": "dipta",
+      "unique": "8400",
+      "id": "697754962649677914",
+      "nickname": null,
+      "sheetData": [
+        {
+          "name": "Dipta Nitiyoga",
+          "discordName": "697754962649677914",
+          "status": "WITHDRAW",
+          "github": "diptaniti"
+        }
+      ]
+    }
+  ],
+  "total": 3
+}
