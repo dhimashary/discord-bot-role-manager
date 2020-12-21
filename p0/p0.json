@@ -29,20 +29,6 @@
       ]
     },
     {
-      "username": "Eins",
-      "unique": "3073",
-      "id": "139657182198235136",
-      "nickname": "Alvin.k",
-      "sheetData": [
-        {
-          "name": "alvin kamajaya",
-          "discordName": "139657182198235136",
-          "status": "Failed",
-          "github": "Eirayuu"
-        }
-      ]
-    },
-    {
       "username": "haritsmedina40",
       "unique": "7049",
       "id": "425242780076605441",
@@ -239,7 +225,7 @@
       ]
     },
     {
-      "username": "Jumardi",
+      "username": "mdlog123",
       "unique": "6466",
       "id": "413911678321950750",
       "nickname": null,
@@ -1597,5 +1583,5 @@
       ]
     }
   ],
-  "total": 114
+  "total": 113
 }

@@ -58,7 +58,7 @@ client.on("message", async (message) => {
       const sheet = JSON.parse(
         fs.readFileSync(`${args[0]}/${args[0]}-sheet.json`, "utf-8")
       );
-      if (args[1] === "failed") {
+      if (args[1] === "failed" && args[0] !== "p0") {
         args[1] = "drop out";
       }
       const expectedData = sheet.data.filter(
@@ -195,6 +195,7 @@ client.on("message", async (message) => {
       break;
     case "graduate":
       try {
+        message.channel.send("Wait a minute senpai~");
         const id = await getRoleId(message.guild, "student-phase3");
         console.log(id, "<<<<<<");
         const updateToId = await getRoleId(message.guild, "student-alumni");
@@ -202,28 +203,26 @@ client.on("message", async (message) => {
         const members = await getMembersWithRole(message.guild, id);
         await changeMembersRole(members, id, updateToId);
         console.log("done");
-        return message.channel.send(
-          "request done"
-        );
+        return message.channel.send("request done");
       } catch (error) {
         console.log(error, "xxxxx");
-        return message.channel.send(
-          "An error occured"
-        );
+        return message.channel.send("An error occured");
       }
       break;
     case "execute":
       try {
-        if (args[0] !== "p1" && args[0] !== "p0" && args[0] !== "p2") {
+        if (args[0] !== "p1" && args[0] !== "p0" && args[0] !== "p2" && args[0] !== "student-new") {
           message.channel.send("invalid param");
         } else if (args[1] !== "failed" && args[1] !== "passed") {
           return message.channel.send(
             "invalid second param only failed, passed, repeat is valid"
           );
         }
-        message.channel.send("proccessing request");
+        message.channel.send("proccessing request Oniichan~");
+        // student-new
         const id = await roleId(message.guild, args[0]);
         const updateToId = await updatedRoleId(message.guild, args[0]);
+        const members = await getMembersWithRole(message.guild, id);
         const { data } = await axios({
           method: "post",
           url: process.env.PIPEDREAM_URL,
@@ -235,28 +234,36 @@ client.on("message", async (message) => {
         const filteredStudent = data.result.filter(
           (student) => student.status.toLowerCase() === args[1].toLowerCase()
         );
-        const promiseMembers = filteredStudent.map((student) => {
-          return message.guild.members.fetch(student.discordName);
+        let promisesStudent = [];
+        members.forEach((member) => {
+          const isExist = filteredStudent.filter(
+            (student) => student.discordName.trim() === member.user.id
+          );
+          if (isExist.length === 1) {
+            promisesStudent.push(member);
+          }
         });
-        const members = await Promise.all(promiseMembers);
         let promisesAction = [];
         if (
           args[1].toLowerCase() === "drop out" ||
           args[1].toLowerCase() === "failed"
         ) {
-          promisesAction = members.map((student) => {
+          console.log("masuk");
+          promisesAction = promisesStudent.map((student) => {
             return student.kick();
           });
         } else {
-          for (let i = 0; i < members.length; i++) {
-            promisesAction.push(members[i].roles.add(updateToId));
-            promisesAction.push(members[i].roles.remove(id));
+          console.log("masuk pass");
+          for (let i = 0; i < promisesStudent.length; i++) {
+            promisesAction.push(promisesStudent[i].roles.add(updateToId));
+            promisesAction.push(promisesStudent[i].roles.remove(id));
           }
         }
         await Promise.all(promisesAction);
         message.channel.send("request done");
       } catch (error) {
         console.log(error);
+        message.channel.send("error occured");
       }
       break;
     case "tendang":
@@ -264,23 +271,18 @@ client.on("message", async (message) => {
       try {
         if (args[0] !== "alumni" && args[0] !== "invalid") {
           message.channel.send("invalid param");
-        } else if (
-          args[0] === "invalid"
-        ) {
-          if (args[1] !== "p0" &&
-          args[1] !== "p1" &&
-          args[1] !== "p2") {
+        } else if (args[0] === "invalid") {
+          if (args[1] !== "p0" && args[1] !== "p1" && args[1] !== "p2") {
             return message.channel.send(
               "invalid second param  (option: invalid, p0, p1, p2)"
             );
           }
         }
-
+        message.channel.send("Tunggu sebentar ya Oniichan~");
         if (args[0] === "alumni") {
           const id = await getRoleId(message.guild, "student-alumni");
           const members = await getMembersWithRole(message.guild, id);
-          console.log(members)
-          // await kickMembers(members);
+          await kickMembers(members);
           return message.channel.send("Request done");
         } else {
           const { data } = await axios({
@@ -301,7 +303,7 @@ client.on("message", async (message) => {
             }
           });
           console.log(invalidMembers.length);
-          // await kickMembers(invalidMembers)
+          await kickMembers(invalidMembers);
           return message.channel.send("Request done");
         }
       } catch (error) {

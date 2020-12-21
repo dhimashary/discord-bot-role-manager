@@ -97,7 +97,7 @@ async function roleId(guild, status) {
 
 async function updatedRoleId(guild, status) {
   let realStatus;
-  if (status === "new") {
+  if (status === "student-new") {
     realStatus = "student-phase0"
   } else if (status === "p0") {
     realStatus = `student-phase1`;
