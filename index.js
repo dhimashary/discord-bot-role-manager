@@ -325,6 +325,7 @@ client.on("message", async (message) => {
         console.log(error);
         return message.channel.send("An error occured");
       }
+      break
     default:
       break;
   }
