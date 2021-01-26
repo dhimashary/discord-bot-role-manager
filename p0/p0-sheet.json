@@ -1,689 +1,395 @@
 {
   "data": [
     {
-      "name": "Ade Dwinata",
-      "discordName": "779549591678746654",
+      "name": "Abdul Majid",
+      "discordName": "610064683596251136",
+      "status": "Passed",
+      "github": "abdulmajid34"
+    },
+    {
+      "name": "Adelina putri aryani  ",
+      "discordName": "766995913477718036",
       "status": "Failed",
-      "github": "Ade-2311"
+      "github": "Adelin-beep"
     },
     {
-      "name": "Danial Ghalib",
-      "discordName": "759431551753650216",
+      "name": "Adhitya Prianda",
+      "discordName": "787351618228191242",
+      "status": "Passed",
+      "github": "adhityaprianda"
+    },
+    {
+      "name": "Agung Hanifan Lutfiyanto",
+      "discordName": "696354086727188601",
       "status": "Failed",
-      "github": "danialhacktiv8"
+      "github": "agunghanifan"
     },
     {
-      "name": "Gifania Lestari",
-      "discordName": "540208315175534592",
+      "name": "ahmad hanafi  ",
+      "discordName": "769394530797486141",
       "status": "Passed",
-      "github": "gifaniasofia"
+      "github": "ahmad-hanafi"
     },
     {
-      "name": "Leonardi Winata",
-      "discordName": "155701062588694528",
+      "name": "allufsen sahala  ",
+      "discordName": "769439801920847902",
       "status": "Failed",
-      "github": "LeonardiWinata"
+      "github": "allufsen"
     },
     {
-      "name": "Olfia Rachmi Widiastuti",
-      "discordName": "734416376869158964",
-      "status": "Passed",
-      "github": "floferno"
-    },
-    {
-      "name": "Stanly Kwok",
-      "discordName": "740104377120850052",
-      "status": "Passed",
-      "github": "stanlys96"
-    },
-    {
-      "name": "Amilio Asmaramis",
-      "discordName": "333565764219174912",
-      "status": "Passed",
-      "github": "AmilioAsmaramis"
-    },
-    {
-      "name": "Dzunnurain Achmad",
-      "discordName": "779576435101663272",
-      "status": "Passed",
-      "github": "dzunnurainachmad"
-    },
-    {
-      "name": "Idris Leatemia",
-      "discordName": "780060542018519111",
+      "name": "Anugrah Adenanto  ",
+      "discordName": "769931674279739392",
       "status": "Failed",
-      "github": "kosong"
+      "github": "adenology"
     },
     {
-      "name": "MHD RIZKI CANDRA",
-      "discordName": "779958953974956063",
-      "status": "Passed",
-      "github": "rizkicaandra"
-    },
-    {
-      "name": "Ridho Hansyah",
-      "discordName": "546681289994928149",
-      "status": "Passed",
-      "github": "hansyahridho07"
-    },
-    {
-      "name": "Timotius Anrez",
-      "discordName": "759524691261522020",
-      "status": "Passed",
-      "github": "TimotiusAnrez"
-    },
-    {
-      "name": "Aufa Nasrullah",
-      "discordName": "618048254722179073",
+      "name": "Arief Ramadhan Wibisono  ",
+      "discordName": "767024715742576650",
       "status": "Failed",
-      "github": "nasrullahaufa\r"
+      "github": "kasaifox"
     },
     {
-      "name": "Karen Djuanda",
-      "discordName": "779595105618493471",
-      "status": "Failed",
-      "github": "fusiformgyrus"
-    },
-    {
-      "name": "Nasa Karono Wijangkoro",
-      "discordName": "779974300534833152",
-      "status": "Failed",
-      "github": "Nas444"
-    },
-    {
-      "name": "Shulthan Daffa'ul Iman",
-      "discordName": "779532170883891231",
+      "name": "Benedict Laju",
+      "discordName": "489824884117995532",
       "status": "Passed",
-      "github": "suldaf"
+      "github": "Markkerss"
     },
     {
-      "name": "Yuspizar Anwar",
-      "discordName": "528553663493308416",
+      "name": "Benhur Nainggolan",
+      "discordName": "424155186249072650",
+      "status": "Passed",
+      "github": "ben12312"
+    },
+    {
+      "name": "BILLY PESOTH",
+      "discordName": "691986454649372764",
+      "status": "Passed",
+      "github": "billybep"
+    },
+    {
+      "name": "Boby Bewa",
+      "discordName": "649873491763658754",
+      "status": "Passed",
+      "github": "bobybewa"
+    },
+    {
+      "name": "Brilian Rachmad Nurwachidin",
+      "discordName": "794363606656352296",
+      "status": "Passed",
+      "github": "brilianrn"
+    },
+    {
+      "name": "catur prasetyo  ",
+      "discordName": "769800530116739072",
+      "status": "Passed",
+      "github": "caturprasatya"
+    },
+    {
+      "name": "Christian Wirawan",
+      "discordName": "234262765622001664",
       "status": "Failed",
-      "github": "yuspizar"
+      "github": "christianwira"
     },
     {
-      "name": "Adityo Prabowo",
-      "discordName": "724965383764967476",
+      "name": "Denny Sihol Ronaldo",
+      "discordName": "795249431578017793",
+      "status": "Failed",
+      "github": "dennysihol"
+    },
+    {
+      "name": "Dio Audia Rachmat",
+      "discordName": "436327785053552640",
+      "status": "Failed",
+      "github": "dioaudr"
+    },
+    {
+      "name": "Dody Setiawan",
+      "discordName": "495944889423626252",
       "status": "Passed",
-      "github": "dithyprabowo51"
+      "github": "dodsstwn"
     },
     {
-      "name": "Daniel Adhi Nugraha",
-      "discordName": "180797057211039745",
+      "name": "Edward Brainerd",
+      "discordName": "568765570259091476",
       "status": "Passed",
-      "github": "luimiguia"
+      "github": "Brein-369"
     },
     {
-      "name": "Goldy Yudika Nainggolan",
+      "name": "emir mashuri",
+      "discordName": "209518011705458688",
+      "status": "Failed",
+      "github": "emirmashuri"
+    },
+    {
+      "name": "erbby danastian  ",
+      "discordName": "702850480065216573",
+      "status": "Failed",
+      "github": "fruelda"
+    },
+    {
+      "name": "Fadhillah Utami",
+      "discordName": "794926025980379207",
+      "status": "Failed",
+      "github": "AJ1508"
+    },
+    {
+      "name": "Fahmi Sinergia",
+      "discordName": "401796195246276618",
+      "status": "Failed",
+      "github": "fahmialis"
+    },
+    {
+      "name": "Fajri Pitutur Jati",
+      "discordName": "779584059080572929",
+      "status": "Passed",
+      "github": "FajriPJ"
+    },
+    {
+      "name": "Fauzan Hilmy  ",
+      "discordName": "296974991260516353",
+      "status": "Passed",
+      "github": "fauzanhilmy"
+    },
+    {
+      "name": "fauzia rahman  ",
+      "discordName": "769392151212720138",
+      "status": "Failed",
+      "github": "fauziara27"
+    },
+    {
+      "name": "Fawwaz Aulia Fadhil",
+      "discordName": "283585653164212235",
+      "status": "Passed",
+      "github": "falidhil"
+    },
+    {
+      "name": "Goldy Yudika Nainggolan  ",
       "discordName": "461647044130373664",
       "status": "Failed",
       "github": "goldyudika"
     },
     {
-      "name": "Luthfi Muhaimin",
-      "discordName": "764710326683566101",
-      "status": "Passed",
-      "github": "luthfimhmn"
-    },
-    {
-      "name": "Puspa Widya Paramitha",
-      "discordName": "779559830763077642",
-      "status": "Passed",
-      "github": "PuspaWidya"
-    },
-    {
-      "name": "Stewart Tiolamon",
-      "discordName": "98033673055514624",
-      "status": "Passed",
-      "github": "gamerberiman"
-    },
-    {
-      "name": "Abdul Majid",
-      "discordName": "610064683596251136",
+      "name": "Gusrinawati Gusrinawati",
+      "discordName": "705253588162838638",
       "status": "Failed",
-      "github": "abdulmajid34"
+      "github": "rina-333"
     },
     {
-      "name": "Boby Bewa",
-      "discordName": "649873491763658754",
-      "status": "Failed",
-      "github": "bobybewa"
-    },
-    {
-      "name": "Galang Ardian",
-      "discordName": "576664932511252481",
-      "status": "Passed",
-      "github": "Neuthos"
-    },
-    {
-      "name": "ken harjuna",
-      "discordName": "779653897198239745",
-      "status": "Passed",
-      "github": "k3nharjuna"
-    },
-    {
-      "name": "Nyoman Adiwinanda",
-      "discordName": "244236760069046282",
-      "status": "Passed",
-      "github": "NyomanAdiwinanda"
-    },
-    {
-      "name": "Siti Aisyah",
-      "discordName": "779573639078215690",
-      "status": "Passed",
-      "github": "syaisyah"
-    },
-    {
-      "name": "Agus Riyanto",
-      "discordName": "673805992793866251",
-      "status": "Passed",
-      "github": "agsriyanto"
-    },
-    {
-      "name": "Diah Lestia Ningrum",
-      "discordName": "637646150668648449",
-      "status": "Failed",
-      "github": "diahlestia"
-    },
-    {
-      "name": "Haidar Yusron",
+      "name": "Haydar Yusron",
       "discordName": "780061946925285376",
-      "status": "Failed",
+      "status": "Passed",
       "github": "HaidarYusron"
     },
     {
-      "name": "Hanifan Afif Umar",
-      "discordName": "780080796732096556",
-      "status": "Failed",
-      "github": "hanifanafif"
-    },
-    {
-      "name": "Mahesa Nur Alamsyah",
-      "discordName": "549410191884550193",
+      "name": "Hilman Auzan Mulyono",
+      "discordName": "335810471636500480",
       "status": "Passed",
-      "github": "Mahe3010"
+      "github": "hilmanauz"
     },
     {
-      "name": "Sutan Arief Sinar Abdurrachman",
-      "discordName": "280369073244864513",
-      "status": "Passed",
-      "github": "sutanarief"
-    },
-    {
-      "name": "Amiruriza -",
-      "discordName": "524971295146770452",
-      "status": "Passed",
-      "github": "aruri-z"
-    },
-    {
-      "name": "Edo Meitanama Putra",
-      "discordName": "779593466953859133",
-      "status": "Failed",
-      "github": "odeodex"
-    },
-    {
-      "name": "Ilham Akbar Syahputra",
-      "discordName": "701825851263680572",
-      "status": "Passed",
-      "github": "ilhamas18"
-    },
-    {
-      "name": "Mizwar Badawi",
-      "discordName": "759682158033371137",
-      "status": "Passed",
-      "github": "MizwarBdw"
-    },
-    {
-      "name": "Rinaldi Adrian Mohammad",
-      "discordName": "310667359205720065",
-      "status": "Passed",
-      "github": "LearnProcessing"
-    },
-    {
-      "name": "Umesha Kevala",
-      "discordName": "338797115377713163",
-      "status": "Failed",
-      "github": "umskvl"
-    },
-    {
-      "name": "Angga Maulana",
-      "discordName": "510970500227268608",
-      "status": "Passed",
-      "github": "khanz1"
-    },
-    {
-      "name": "Farid Juliano",
-      "discordName": "715513734742933555",
-      "status": "Passed",
-      "github": "HantuPutih"
-    },
-    {
-      "name": "iqbal baihaqi abdulah",
-      "discordName": "680899020939591767",
-      "status": "Passed",
-      "github": "iqballbayhaqi"
-    },
-    {
-      "name": "Muhammad harits Medina",
-      "discordName": "425242780076605441",
-      "status": "Passed",
-      "github": "haritsmedina"
-    },
-    {
-      "name": "Rofi Akmaluddin",
-      "discordName": "780078096929652747",
-      "status": "Passed",
-      "github": "rofiakmaluddin"
-    },
-    {
-      "name": "Dede Khoirul Yuda",
-      "discordName": "779632977151787028",
-      "status": "Failed",
-      "github": "khoirulyuda"
-    },
-    {
-      "name": "M Fiqri Milano",
-      "discordName": "475158501837242399",
-      "status": "Passed",
-      "github": "Milandak19"
-    },
-    {
-      "name": "Oki Pratama Putra",
-      "discordName": "278559411537182720",
-      "status": "Passed",
-      "github": "okipratama97"
-    },
-    {
-      "name": "Ramadhan Nur Cholis Januar",
-      "discordName": "383799731052347406",
-      "status": "Passed",
-      "github": "Adhann"
-    },
-    {
-      "name": "Rara Danniswara",
-      "discordName": "756349224433745982",
-      "status": "Failed",
-      "github": "LiliAmber"
-    },
-    {
-      "name": "Susilo Prasetyo",
-      "discordName": "759350393192185866",
-      "status": "Failed",
-      "github": "SusiloBP"
-    },
-    {
-      "name": "Amos Wijaya",
-      "discordName": "431073619834044426",
-      "status": "Passed",
-      "github": "Amoswijaya"
-    },
-    {
-      "name": "Husnul Aulia",
+      "name": "Husnul Aulia  ",
       "discordName": "780237567097962507",
       "status": "Failed",
-      "github": "AdamH-A"
+      "github": "AdamH.A"
     },
     {
-      "name": "Indhara L Kajeng Amerta",
-      "discordName": "757231088098607154",
+      "name": "Irwan Sahputra (Reg)",
+      "discordName": "525978443331010560",
       "status": "Failed",
-      "github": "indharamerta"
+      "github": "irwansahputra"
     },
     {
-      "name": "Mochamad Ralidona",
-      "discordName": "779676283910750208",
+      "name": "Jed Abner Sihombing",
+      "discordName": "550781336756158465",
       "status": "Failed",
-      "github": "Ralidona"
+      "github": "Jed29"
     },
     {
-      "name": "Rio Rheza Harris",
-      "discordName": "239744256342884354",
+      "name": "Jeremia Ginting",
+      "discordName": "795233639097040936",
+      "status": "Failed",
+      "github": "JeryArapenta"
+    },
+    {
+      "name": "Krisna Krisna",
+      "discordName": "795526035009568809",
       "status": "Passed",
-      "github": "riorhezaharris"
+      "github": "krisnakris"
+    },
+    {
+      "name": "M. Rizal Arvandy",
+      "discordName": "587203533347094540",
+      "status": "Passed",
+      "github": "mrarvandy"
+    },
+    {
+      "name": "martinus dwi  ",
+      "discordName": "756500712405598278",
+      "status": "Failed",
+      "github": "Sudah"
+    },
+    {
+      "name": "Mathias Santoso",
+      "discordName": "333234711360962560",
+      "status": "Passed",
+      "github": "Mathias182"
+    },
+    {
+      "name": "Mochammad Fachry Sumantri",
+      "discordName": "696666923923931166",
+      "status": "Passed",
+      "github": "FachryMochammad"
+    },
+    {
+      "name": "Muhamad Saifulloh",
+      "discordName": "709273493589459006",
+      "status": "Passed",
+      "github": "regakun"
+    },
+    {
+      "name": "Muhammad Afif Izuddin",
+      "discordName": "772443459227353138",
+      "status": "Passed",
+      "github": "afifizzudn#1650"
+    },
+    {
+      "name": "Muhammad Arkan Mufadho",
+      "discordName": "795179783423262720",
+      "status": "Passed",
+      "github": "mufendew"
+    },
+    {
+      "name": "Muhammad Dhany Abdurrahman",
+      "discordName": "755040874672554034",
+      "status": "Failed",
+      "github": "Mdhny"
+    },
+    {
+      "name": "Muhammad Dimas Firmanda (Reg)",
+      "discordName": "666663398662209536",
+      "status": "Passed",
+      "github": "dim-27"
+    },
+    {
+      "name": "Muhammad Fajar Wira Azdi Azdi",
+      "discordName": "691621728660750346",
+      "status": "Failed",
+      "github": "gondhes"
+    },
+    {
+      "name": "Muhammad Hafidz Hubbusysyuhada",
+      "discordName": "290444114162614272",
+      "status": "Passed",
+      "github": "hubbusysyuhada"
+    },
+    {
+      "name": "Naufal Wibisono",
+      "discordName": "741168279422369823",
+      "status": "Failed",
+      "github": "naufalwibs"
+    },
+    {
+      "name": "Nia Febriyanti",
+      "discordName": "772783375357444097",
+      "status": "Failed",
+      "github": "niafebriayanti"
+    },
+    {
+      "name": "Novialita Wibowo  ",
+      "discordName": "739561947800010852",
+      "status": "Failed",
+      "github": "viaylwen "
+    },
+    {
+      "name": "NURVAN DWI HANANTO",
+      "discordName": "213512788037992449",
+      "status": "Failed",
+      "github": "nurvandwi"
+    },
+    {
+      "name": "Otniel Pratama Pangkung",
+      "discordName": "496202604984926208",
+      "status": "Failed",
+      "github": "otnielpangkung"
+    },
+    {
+      "name": "Rama Cahya Santoso ",
+      "discordName": "408143091791429632",
+      "status": "Passed",
+      "github": "ramacahya"
+    },
+    {
+      "name": "Rendra -",
+      "discordName": "441955505364140034",
+      "status": "Passed",
+      "github": "rendramakmur"
+    },
+    {
+      "name": "Reza Habrizal  ",
+      "discordName": "779884631666589706",
+      "status": "Passed",
+      "github": "RezaHabrizal"
+    },
+    {
+      "name": "Ricky Hemawan",
+      "discordName": "794147046830768159",
+      "status": "Passed",
+      "github": "rickyhemawan"
+    },
+    {
+      "name": "Rio Dicky Angga Irawan",
+      "discordName": "484667873323778068",
+      "status": "Passed",
+      "github": "dickyanggairaw"
+    },
+    {
+      "name": "Rizki Ardiansyah",
+      "discordName": "497383620407853076",
+      "status": "Failed",
+      "github": "rizkiardian29"
+    },
+    {
+      "name": "Robby Benta",
+      "discordName": "705417126327877702",
+      "status": "Passed",
+      "github": "robbybenta"
+    },
+    {
+      "name": "roli bernanda  ",
+      "discordName": "416621473084473364",
+      "status": "Passed",
+      "github": "rbernanda"
+    },
+    {
+      "name": "Salsabilla Mauliddina Aswita Akbar  ",
+      "discordName": "664857923754917900",
+      "status": "Passed",
+      "github": "salsabillamauliddina"
+    },
+    {
+      "name": "Samuel Riady",
+      "discordName": "241507282699943936",
+      "status": "Passed",
+      "github": "limajima"
+    },
+    {
+      "name": "Sandy Mahdi Wibawa",
+      "discordName": "795244773229068310",
+      "status": "Failed",
+      "github": "sandymahdi"
     },
     {
       "name": "Vincent Karlan",
       "discordName": "780312162933538835",
       "status": "Failed",
-      "github": "Vnc-code"
+      "github": "vnc-code"
     },
     {
-      "name": "Abdul Mujib Firmansyah",
-      "discordName": "779532433015308309",
-      "status": "Passed",
-      "github": "Abdul Mujib Firmansyah"
-    },
-    {
-      "name": "Andi Samsualam",
-      "discordName": "780077256147599370",
-      "status": "Passed",
-      "github": "alam-sa"
-    },
-    {
-      "name": "Indo Halim",
-      "discordName": "779574138552975360",
-      "status": "Passed",
-      "github": "indoderiano"
-    },
-    {
-      "name": "Muhammad Burhanudin Yusuf",
-      "discordName": "249397233705943041",
-      "status": "Passed",
-      "github": "hanzkid"
-    },
-    {
-      "name": "Riyan Eko Saputro",
-      "discordName": "760038965960638474",
+      "name": "Zikri Anbia",
+      "discordName": "755471428278812703",
       "status": "Failed",
-      "github": "riyaaneko"
-    },
-    {
-      "name": "Wahyu Winoto",
-      "discordName": "780006618255458305",
-      "status": "Passed",
-      "github": "wahyuwinoto"
-    },
-    {
-      "name": "Angganararas Lungidningtyas",
-      "discordName": "423135825119805475",
-      "status": "Passed",
-      "github": "anggi3234"
-    },
-    {
-      "name": "Fauzan Hilmy",
-      "discordName": "296974991260516353",
-      "status": "Failed",
-      "github": "fauzanhilmy"
-    },
-    {
-      "name": "Irwan Sahputra Kesuma",
-      "discordName": "525978443331010560",
-      "status": "Failed",
-      "github": "irwansahputra (irwansahputra95@gmail.com)"
-    },
-    {
-      "name": "Muhammad Rizki Ardyan",
-      "discordName": "716438645791391768",
-      "status": "Passed",
-      "github": "ardyanrizki"
-    },
-    {
-      "name": "Romario Joseph",
-      "discordName": "442900546710667274",
-      "status": "Passed",
-      "github": "RJO-001"
-    },
-    {
-      "name": "Bambang Arif Susilo",
-      "discordName": "780153329660723220",
-      "status": "Passed",
-      "github": "arifnex-99"
-    },
-    {
-      "name": "Firza Kauzart Zay",
-      "discordName": "769566636327698462",
-      "status": "Failed",
-      "github": "Firza Kauzart Zay"
-    },
-    {
-      "name": "Karenina Bella Safira",
-      "discordName": "780072000201687040",
-      "status": "Failed",
-      "github": "kareninabella"
-    },
-    {
-      "name": "Nurul Asmi Amalia",
-      "discordName": "679527983689629765",
-      "status": "Passed",
-      "github": "naamalia23"
-    },
-    {
-      "name": "Simon Wicaksono",
-      "discordName": "436938701570834443",
-      "status": "Failed",
-      "github": "simonteguhw01"
-    },
-    {
-      "name": "Adivigo Khalishtama",
-      "discordName": "278893131787665408",
-      "status": "Passed",
-      "github": "adivigo"
-    },
-    {
-      "name": "Christ Lorenzo Harlyandi",
-      "discordName": "141281721940312064",
-      "status": "Passed",
-      "github": "CLorenzoH"
-    },
-    {
-      "name": "Diardo Marendi Krista",
-      "discordName": "232505256263680000",
-      "status": "Passed",
-      "github": "diardomarendikrista"
-    },
-    {
-      "name": "Fajri Pitutur Jati",
-      "discordName": "779584059080572929",
-      "status": "Failed",
-      "github": "FajriPJ"
-    },
-    {
-      "name": "Ghazan Athar Krisna",
-      "discordName": "334288164669751296",
-      "status": "Passed",
-      "github": "ghazanak47"
-    },
-    {
-      "name": "Soraida Sabella",
-      "discordName": "767929872659120148",
-      "status": "Passed",
-      "github": "SoraSabella"
-    },
-    {
-      "name": "Ardian Chandra",
-      "discordName": "366233978018988032",
-      "status": "Passed",
-      "github": "ArdianChandra"
-    },
-    {
-      "name": "FERDIAN ATMADIPUTRA",
-      "discordName": "210392802138390528",
-      "status": "Passed",
-      "github": "ferdianatmadiputra"
-    },
-    {
-      "name": "Joshua Fanera",
-      "discordName": "778168906594385940",
-      "status": "Passed",
-      "github": "J-R4"
-    },
-    {
-      "name": "Muhammad Suryo Prabowo",
-      "discordName": "428201662675550228",
-      "status": "Passed",
-      "github": "muhammadsuryo31"
-    },
-    {
-      "name": "Romulus Andri",
-      "discordName": "779628128708460545",
-      "status": "Failed",
-      "github": "romulusandri"
-    },
-    {
-      "name": "Amardev Singh",
-      "discordName": "414604214652895259",
-      "status": "Passed",
-      "github": "amardevsingh98"
-    },
-    {
-      "name": "Dody Tri Fatwadi",
-      "discordName": "779623449810960385",
-      "status": "Passed",
-      "github": "dodytrifa"
-    },
-    {
-      "name": "Enriko Aviyanto Putra",
-      "discordName": "759727431992737792",
-      "status": "Passed",
-      "github": "EnrikoAviyantoPutra"
-    },
-    {
-      "name": "Masghifari Revy Fadjri",
-      "discordName": "646062112053133343",
-      "status": "Passed",
-      "github": "masghi63"
-    },
-    {
-      "name": "Reza Mahendra Surin",
-      "discordName": "245252720594780171",
-      "status": "Passed",
-      "github": "rezasurin"
-    },
-    {
-      "name": "Thesar Nadhif",
-      "discordName": "444892067601055776",
-      "status": "Failed",
-      "github": "thesarsepty"
-    },
-    {
-      "name": "alvin kamajaya",
-      "discordName": "139657182198235136",
-      "status": "Failed",
-      "github": "Eirayuu"
-    },
-    {
-      "name": "Harianto Xu",
-      "discordName": "469158044073197568",
-      "status": "Failed",
-      "github": "Professor#7004"
-    },
-    {
-      "name": "Laela Citra Asih",
-      "discordName": "779663420357214208",
-      "status": "Passed",
-      "github": "laelacitrasih"
-    },
-    {
-      "name": "Mas Agung Denisa Bekam",
-      "discordName": "672021953481277450",
-      "status": "Passed",
-      "github": "Agung78"
-    },
-    {
-      "name": "Reza Habrizal",
-      "discordName": "779884631666589706",
-      "status": "Failed",
-      "github": "RezaHabrizal"
-    },
-    {
-      "name": "Tharieq Noor",
-      "discordName": "662285113354354700",
-      "status": "Failed",
-      "github": "TharieqNoor"
-    },
-    {
-      "name": "Aldi Megantara Arifin",
-      "discordName": "759800426035281980",
-      "status": "Failed",
-      "github": "Aldimegantaraarifin"
-    },
-    {
-      "name": "Dian Rizki Pratama",
-      "discordName": "706935060565327952",
-      "status": "Passed",
-      "github": "dianrp22"
-    },
-    {
-      "name": "Hans Willam Herman",
-      "discordName": "780233642471456788",
-      "status": "Failed",
-      "github": "Hans223"
-    },
-    {
-      "name": "Markus Daniel",
-      "discordName": "759775327903154226",
-      "status": "Passed",
-      "github": "MDB-sys"
-    },
-    {
-      "name": "Resa Irsanto",
-      "discordName": "774142062798307438",
-      "status": "Passed",
-      "github": "resairsanto"
-    },
-    {
-      "name": "TEDDY PRATAMA RISKA",
-      "discordName": "780003081680715808",
-      "status": "Failed",
-      "github": "teddy-tama"
-    },
-    {
-      "name": "Andre Reza mahenra",
-      "discordName": "779647133287579699",
-      "status": "Failed",
-      "github": "Rezamahenra"
-    },
-    {
-      "name": "Farera Gerry",
-      "discordName": "597389469209067532",
-      "status": "Passed",
-      "github": "fareragerry"
-    },
-    {
-      "name": "Firman Isnaeni",
-      "discordName": "420938537379168258",
-      "status": "Passed",
-      "github": "firman9979"
-    },
-    {
-      "name": "Ingrid Tambunan",
-      "discordName": "676071138350333967",
-      "status": "Passed",
-      "github": "ItsDigitalEngine"
-    },
-    {
-      "name": "Muhammad Dimas Firmanda",
-      "discordName": "666663398662209536",
-      "status": "Failed",
-      "github": "dim-27"
-    },
-    {
-      "name": "Rizky Rahman",
-      "discordName": "779538493223338024",
-      "status": "Passed",
-      "github": "k1man"
-    },
-    {
-      "name": "arinda rahma dini",
-      "discordName": "779735074320023562",
-      "status": "Passed",
-      "github": "arindarahmadini"
-    },
-    {
-      "name": "Filemon Harwiadi",
-      "discordName": "619813159280181249",
-      "status": "Failed",
-      "github": "filemonharwiadi"
-    },
-    {
-      "name": "Jumardi -",
-      "discordName": "413911678321950750",
-      "status": "Failed",
-      "github": "mdlog"
-    },
-    {
-      "name": "Mukti Aji Guno",
-      "discordName": "462630506702438420",
-      "status": "Passed",
-      "github": "muktiag29"
-    },
-    {
-      "name": "Ryan Rumpoko",
-      "discordName": "486356698768998407",
-      "status": "Passed",
-      "github": "RyanRumpoko"
+      "github": "zikrianbia"
     }
   ],
-  "total": 114
+  "total": 65
 }

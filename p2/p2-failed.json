@@ -1,4 +1,173 @@
 {
-  "data": [],
-  "total": 0
+  "data": [
+    {
+      "username": "Monyta",
+      "unique": "7381",
+      "id": "651348307276333066",
+      "nickname": null,
+      "sheetData": [
+        {
+          "name": "Monyta Rahmania",
+          "discordName": "651348307276333066",
+          "status": "DROP OUT",
+          "github": "monytarah"
+        }
+      ]
+    },
+    {
+      "username": "Akmalmirza F.P",
+      "unique": "4866",
+      "id": "759634523163721748",
+      "nickname": null,
+      "sheetData": [
+        {
+          "name": "Akmalmirza Fachrulhuda Parentafossa",
+          "discordName": "759634523163721748",
+          "status": "DROP OUT",
+          "github": "AkmalmirzaFP"
+        }
+      ]
+    },
+    {
+      "username": "andrianm28",
+      "unique": "0851",
+      "id": "591990502904168479",
+      "nickname": "M. Andrian Maulana",
+      "sheetData": [
+        {
+          "name": "Mochammad Andrian Maulana",
+          "discordName": "591990502904168479",
+          "status": "DROP OUT",
+          "github": "andrianm28"
+        }
+      ]
+    },
+    {
+      "username": "riokp",
+      "unique": "5293",
+      "id": "590543556737761292",
+      "nickname": "Rio",
+      "sheetData": [
+        {
+          "name": "Rio Prasetya",
+          "discordName": "590543556737761292",
+          "status": "DROP OUT",
+          "github": "riokp"
+        }
+      ]
+    },
+    {
+      "username": "Dimas G.",
+      "unique": "0065",
+      "id": "481494952455700490",
+      "nickname": null,
+      "sheetData": [
+        {
+          "name": "Dimas Subroto",
+          "discordName": "481494952455700490",
+          "status": "DROP OUT",
+          "github": "dimasgaluhss"
+        }
+      ]
+    },
+    {
+      "username": "Anthony Gunardi",
+      "unique": "5877",
+      "id": "697327000234360973",
+      "nickname": null,
+      "sheetData": [
+        {
+          "name": "Anthony Gunardi Purwadipura",
+          "discordName": "697327000234360973",
+          "status": "DROP OUT",
+          "github": "AnthonyGunardi"
+        }
+      ]
+    },
+    {
+      "username": "Munawirul Hadi",
+      "unique": "0163",
+      "id": "759440226296004659",
+      "nickname": null,
+      "sheetData": [
+        {
+          "name": "Munawirul Hadi",
+          "discordName": "759440226296004659",
+          "status": "DROP OUT",
+          "github": "heyhadi"
+        }
+      ]
+    },
+    {
+      "username": "rizki",
+      "unique": "8445",
+      "id": "641267041352941589",
+      "nickname": null,
+      "sheetData": [
+        {
+          "name": "Mochamad Rizki",
+          "discordName": "641267041352941589",
+          "status": "DROP OUT",
+          "github": "emrizki"
+        }
+      ]
+    },
+    {
+      "username": "Nafisa Alfiani",
+      "unique": "3129",
+      "id": "759951478679928882",
+      "nickname": null,
+      "sheetData": [
+        {
+          "name": "Nafisa Alfiani",
+          "discordName": "759951478679928882",
+          "status": "DROP OUT",
+          "github": "nafisalfiani"
+        }
+      ]
+    },
+    {
+      "username": "Muhammad Al Faruq",
+      "unique": "1394",
+      "id": "749487916325273701",
+      "nickname": null,
+      "sheetData": [
+        {
+          "name": "Muhammad Alfaruq",
+          "discordName": "749487916325273701",
+          "status": "DROP OUT",
+          "github": "ALFAROOKH"
+        }
+      ]
+    },
+    {
+      "username": "heykall",
+      "unique": "7389",
+      "id": "749112159127994378",
+      "nickname": "Muhammad Haikal",
+      "sheetData": [
+        {
+          "name": "Muhammad Haikal",
+          "discordName": "749112159127994378",
+          "status": "DROP OUT",
+          "github": "heykall"
+        }
+      ]
+    },
+    {
+      "username": "badiaba",
+      "unique": "8510",
+      "id": "695234853553045606",
+      "nickname": "Badi Aba",
+      "sheetData": [
+        {
+          "name": "Badi Aba",
+          "discordName": "695234853553045606",
+          "status": "DROP OUT",
+          "github": "badimhmm"
+        }
+      ]
+    }
+  ],
+  "total": 12
 }

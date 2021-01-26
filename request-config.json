@@ -49,8 +49,8 @@
       },
       "status": {
         "sheetId": 1411864498,
-        "startColumnIndex": 31,
-        "endColumnIndex": 32,
+        "startColumnIndex": 33,
+        "endColumnIndex": 34,
         "startRowIndex": 3
       },
       "github": {
@@ -69,28 +69,28 @@
         "startColumnIndex": 1,
         "endColumnIndex": 2,
         "startRowIndex": 1,
-        "endRowIndex": 109
+        "endRowIndex": 67
       },
       "discord": {
         "sheetId": 141744976,
         "startColumnIndex": 5,
         "endColumnIndex": 6,
         "startRowIndex": 1,
-        "endRowIndex": 109
+        "endRowIndex": 67
       },
       "status": {
         "sheetId": 141744976,
-        "startColumnIndex": 20,
-        "endColumnIndex": 21,
+        "startColumnIndex": 22,
+        "endColumnIndex": 23,
         "startRowIndex": 1,
-        "endRowIndex": 109
+        "endRowIndex": 67
       },
       "github": {
         "sheetId": 141744976,
         "startColumnIndex": 7,
         "endColumnIndex": 8,
         "startRowIndex": 1,
-        "endRowIndex": 109
+        "endRowIndex": 67
       }
     }
   }

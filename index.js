@@ -9,7 +9,6 @@ const axios = require("axios");
 const requestConfig = require("./request-config.json");
 
 const {
-  clear,
   roleId,
   changeMembersRole,
   getArgs,
@@ -105,6 +104,7 @@ client.on("message", async (message) => {
         const failedMember = [];
         const repeatMember = [];
         const withdrawMember = [];
+        const cutiMember = [];
         members.forEach(async (member) => {
           const isExist = data.result.filter(
             (student) => student.discordName.trim() === member.user.id
@@ -126,6 +126,9 @@ client.on("message", async (message) => {
               failedMember.push(memberData);
             } else if (status === "withdraw") {
               withdrawMember.push(memberData);
+            } else if (status === "cuti") {
+              console.log(status, "<-----", memberData);
+              cutiMember.push(memberData);
             }
             validMember.push(memberData);
           } else {
@@ -188,6 +191,14 @@ client.on("message", async (message) => {
             2
           )
         );
+        fs.writeFileSync(
+          `${args[0]}/${args[0]}-cuti.json`,
+          JSON.stringify(
+            { data: cutiMember, total: cutiMember.length },
+            null,
+            2
+          )
+        );
         return message.channel.send("request done");
       } catch (error) {
         console.log(error);
@@ -211,11 +222,16 @@ client.on("message", async (message) => {
       break;
     case "execute":
       try {
-        if (args[0] !== "p1" && args[0] !== "p0" && args[0] !== "p2" && args[0] !== "student-new") {
+        if (
+          args[0] !== "p1" &&
+          args[0] !== "p0" &&
+          args[0] !== "p2" &&
+          args[0] !== "student-new"
+        ) {
           message.channel.send("invalid param");
         } else if (args[1] !== "failed" && args[1] !== "passed") {
           return message.channel.send(
-            "invalid second param only failed, passed, repeat is valid"
+            "invalid second param only failed, passed is valid"
           );
         }
         message.channel.send("proccessing request Oniichan~");
@@ -239,14 +255,14 @@ client.on("message", async (message) => {
           const isExist = filteredStudent.filter(
             (student) => student.discordName.trim() === member.user.id
           );
-          if (isExist.length === 1) {
+          if (isExist.length === 1 || args[0] === "student-new") {
             promisesStudent.push(member);
           }
         });
         let promisesAction = [];
         if (
           args[1].toLowerCase() === "drop out" ||
-          args[1].toLowerCase() === "failed"
+          (args[1].toLowerCase() === "failed" && args[0] !== "student-new")
         ) {
           console.log("masuk");
           promisesAction = promisesStudent.map((student) => {
@@ -266,7 +282,7 @@ client.on("message", async (message) => {
         message.channel.send("error occured");
       }
       break;
-    case "tendang":
+    case "kick":
       // make sure to run find command before running this command
       try {
         if (args[0] !== "alumni" && args[0] !== "invalid") {
@@ -302,7 +318,6 @@ client.on("message", async (message) => {
               invalidMembers.push(member);
             }
           });
-          console.log(invalidMembers.length);
           await kickMembers(invalidMembers);
           return message.channel.send("Request done");
         }
@@ -310,7 +325,6 @@ client.on("message", async (message) => {
         console.log(error);
         return message.channel.send("An error occured");
       }
-      break;
     default:
       break;
   }
