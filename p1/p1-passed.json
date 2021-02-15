@@ -1,19 +1,4 @@
 {
-  "data": [
-    {
-      "username": "Dzunnurain Achmad Azhar",
-      "unique": "6353",
-      "id": "779576435101663272",
-      "nickname": null,
-      "sheetData": [
-        {
-          "name": "Dzunnurain Achmad",
-          "discordName": "779576435101663272",
-          "status": "PASSED",
-          "github": "dzunnurainachmad"
-        }
-      ]
-    }
-  ],
-  "total": 1
+  "data": [],
+  "total": 0
 }

@@ -1,40 +1,12 @@
 {
   "data": [
     {
-      "username": "Fendew",
-      "unique": "0646",
-      "id": "273440339736526848",
-      "nickname": "fadho",
-      "sheetData": []
-    },
-    {
-      "username": "Fauzan",
-      "unique": "4560",
-      "id": "762320690468225066",
-      "nickname": null,
-      "sheetData": []
-    },
-    {
-      "username": "Krisna",
-      "unique": "5903",
-      "id": "794417827078995989",
-      "nickname": null,
-      "sheetData": []
-    },
-    {
-      "username": "RobbyBenta",
-      "unique": "3135",
-      "id": "795467386329366588",
-      "nickname": null,
-      "sheetData": []
-    },
-    {
-      "username": "Dody",
-      "unique": "7540",
-      "id": "794898227240632321",
+      "username": "dnr13",
+      "unique": "2454",
+      "id": "756536449607794750",
       "nickname": null,
       "sheetData": []
     }
   ],
-  "total": 5
+  "total": 1
 }

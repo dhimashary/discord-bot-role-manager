@@ -107,7 +107,7 @@ client.on("message", async (message) => {
         const cutiMember = [];
         members.forEach(async (member) => {
           const isExist = data.result.filter(
-            (student) => student.discordName.trim() === member.user.id
+            (student) => student.discordId.trim() === member.user.id
           );
           const memberData = {
             username: member.user.username,
@@ -253,7 +253,7 @@ client.on("message", async (message) => {
         let promisesStudent = [];
         members.forEach((member) => {
           const isExist = filteredStudent.filter(
-            (student) => student.discordName.trim() === member.user.id
+            (student) => student.discordId.trim() === member.user.id
           );
           if (isExist.length === 1 || args[0] === "student-new") {
             promisesStudent.push(member);
@@ -311,7 +311,7 @@ client.on("message", async (message) => {
           const invalidMembers = [];
           members.forEach((member) => {
             const isExist = data.result.filter(
-              (student) => student.discordName.trim() === member.user.id
+              (student) => student.discordId.trim() === member.user.id
             );
             if (!isExist.length) {
               console.log(member, "<-----");

@@ -1,16 +1,16 @@
 {
   "data": [
     {
-      "username": "Rayy!",
-      "unique": "4381",
-      "id": "545601954928394262",
-      "nickname": "Aryya Hastungkara",
+      "username": "Christ",
+      "unique": "5296",
+      "id": "234262765622001664",
+      "nickname": null,
       "sheetData": [
         {
-          "name": "raden hastungkara",
-          "discordName": "545601954928394262",
-          "status": "WITHDRAW",
-          "github": "hstgkr"
+          "name": "Christian Wirawan",
+          "discordId": "234262765622001664",
+          "status": "Withdraw",
+          "github": "christianwira"
         }
       ]
     }

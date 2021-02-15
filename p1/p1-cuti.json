@@ -1,19 +1,4 @@
 {
-  "data": [
-    {
-      "username": "Siti Aisyah",
-      "unique": "6865",
-      "id": "779573639078215690",
-      "nickname": null,
-      "sheetData": [
-        {
-          "name": "Siti Aisyah",
-          "discordName": "779573639078215690",
-          "status": "CUTI",
-          "github": "syaisyah"
-        }
-      ]
-    }
-  ],
-  "total": 1
+  "data": [],
+  "total": 0
 }

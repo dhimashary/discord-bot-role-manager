@@ -1,569 +1,443 @@
 {
   "data": [
     {
-      "name": "Agus Riyanto",
-      "discordName": "673805992793866251",
+      "name": "Fauzan Hilmy  ",
+      "discordId": "296974991260516353",
       "status": "REPEAT",
-      "github": "agsriyanto"
-    },
-    {
-      "name": "Rio Rheza Harris",
-      "discordName": "239744256342884354",
-      "status": "REPEAT",
-      "github": "riorhezaharris"
-    },
-    {
-      "name": "Alkindi Alkindi",
-      "discordName": "518721325733380102",
-      "status": "DROP OUT",
-      "github": "kindi-zack"
-    },
-    {
-      "name": "Masghifari Revy Fadjri",
-      "discordName": "646062112053133343",
-      "status": "REPEAT",
-      "github": "masghi63"
-    },
-    {
-      "name": "Farera Gerry",
-      "discordName": "597389469209067532",
-      "status": "WITHDRAW",
-      "github": "fareragerry"
-    },
-    {
-      "name": "Daristya Satria Maulana",
-      "discordName": "713926558557143121",
-      "status": "DROP OUT",
-      "github": "aaksatt"
-    },
-    {
-      "name": "Dzunnurain Achmad",
-      "discordName": "779576435101663272",
-      "status": "PASSED",
-      "github": "dzunnurainachmad"
-    },
-    {
-      "name": "Iqbal Juliant",
-      "discordName": "748748390220693525",
-      "status": "DROP OUT",
-      "github": "iJuliant"
-    },
-    {
-      "name": "Ridho Hansyah",
-      "discordName": "546681289994928149",
-      "status": "REPEAT",
-      "github": "hansyahridho07"
-    },
-    {
-      "name": "Markus Daniel",
-      "discordName": "759775327903154226",
-      "status": "REPEAT",
-      "github": "MDB-sys"
-    },
-    {
-      "name": "Andi Samsualam",
-      "discordName": "780077256147599370",
-      "status": "REPEAT",
-      "github": "alam-sa"
-    },
-    {
-      "name": "Ghazan Athar Krisna",
-      "discordName": "334288164669751296",
-      "status": "REPEAT",
-      "github": "ghazanak47"
-    },
-    {
-      "name": "Mohammad Robiul Tri Awali",
-      "discordName": "769396849442029578",
-      "status": "DROP OUT",
-      "github": "robiul511"
-    },
-    {
-      "name": "Muhammad Rizki Ardyan",
-      "discordName": "716438645791391768",
-      "status": "REPEAT",
-      "github": "ardyanrizki"
-    },
-    {
-      "name": "Siti Aisyah",
-      "discordName": "779573639078215690",
-      "status": "CUTI",
-      "github": "syaisyah"
-    },
-    {
-      "name": "Ardian Chandra",
-      "discordName": "366233978018988032",
-      "status": "REPEAT",
-      "github": "ArdianChandra"
-    },
-    {
-      "name": "Wahyu Danang Prabowo",
-      "discordName": "579728787365691394",
-      "status": "DROP OUT",
-      "github": "mrdanang"
-    },
-    {
-      "name": "Shulthan Daffa'ul Iman",
-      "discordName": "779532170883891231",
-      "status": "REPEAT",
-      "github": "suldaf"
-    },
-    {
-      "name": "Stewart Tiolamon",
-      "discordName": "98033673055514624",
-      "status": "REPEAT",
-      "github": "gamerberiman"
-    },
-    {
-      "name": "Indo Halim",
-      "discordName": "779574138552975360",
-      "status": "REPEAT",
-      "github": "indoderiano"
-    },
-    {
-      "name": "Nurul Asmi Amalia",
-      "discordName": "679527983689629765",
-      "status": "WITHDRAW",
-      "github": "naamalia23"
-    },
-    {
-      "name": "Christ Lorenzo Harlyandi",
-      "discordName": "141281721940312064",
-      "status": "REPEAT",
-      "github": "CLorenzoH"
-    },
-    {
-      "name": "Wahyu Winoto",
-      "discordName": "780006618255458305",
-      "status": "REPEAT",
-      "github": "wahyuwinoto"
-    },
-    {
-      "name": "Wibowo Laksana",
-      "discordName": "769855059092701184",
-      "status": "DROP OUT",
-      "github": "wibowo-laks"
-    },
-    {
-      "name": "Joshua Fanera",
-      "discordName": "778168906594385940",
-      "status": "REPEAT",
-      "github": "J-R4"
+      "github": "fauzanhilmy"
     },
     {
       "name": "Olfia Rachmi Widiastuti",
-      "discordName": "734416376869158964",
-      "status": "REPEAT",
+      "discordId": "734416376869158964",
+      "status": "DROP OUT",
       "github": "floferno"
     },
     {
-      "name": "Galang Ardian",
-      "discordName": "576664932511252481",
+      "name": "Otniel Pratama Pangkung",
+      "discordId": "496202604984926208",
       "status": "REPEAT",
-      "github": "Neuthos"
+      "github": "otnielpangkung"
     },
     {
-      "name": "Mukti Aji Guno",
-      "discordName": "462630506702438420",
+      "name": "Rendra -",
+      "discordId": "441955505364140034",
       "status": "REPEAT",
-      "github": "muktiag29"
+      "github": "rendramakmur"
     },
     {
-      "name": "Fathan Nurudin",
-      "discordName": "475297662292197376",
-      "status": "DROP OUT",
-      "github": "fathannrd"
+      "name": "Mohammad Fadhil Aiman",
+      "discordId": "kosong",
+      "status": "kosong",
+      "github": "kosong"
     },
     {
-      "name": "Enriko Aviyanto Putra",
-      "discordName": "759727431992737792",
+      "name": "Adhitya Prianda",
+      "discordId": "787351618228191242",
       "status": "REPEAT",
-      "github": "EnrikoAviyantoPutra"
-    },
-    {
-      "name": "Rinaldi Adrian Mohammad",
-      "discordName": "310667359205720065",
-      "status": "REPEAT",
-      "github": "LearnProcessing"
-    },
-    {
-      "name": "Adivigo Khalishtama",
-      "discordName": "278893131787665408",
-      "status": "REPEAT",
-      "github": "adivigo"
-    },
-    {
-      "name": "Mas Agung Denisa Bekam",
-      "discordName": "672021953481277450",
-      "status": "REPEAT",
-      "github": "Agung78"
-    },
-    {
-      "name": "Zhafran Fajar Bagaskoro",
-      "discordName": "656805976824872961",
-      "status": "WITHDRAW",
-      "github": "koroko185"
-    },
-    {
-      "name": "Dian Rizki Pratama",
-      "discordName": "706935060565327952",
-      "status": "REPEAT",
-      "github": "dianrp22"
-    },
-    {
-      "name": "Febriansyah Febriansyah",
-      "discordName": "385228387465035828",
-      "status": "DROP OUT",
-      "github": "blackjac7"
-    },
-    {
-      "name": "Laela Citra Asih",
-      "discordName": "779663420357214208",
-      "status": "REPEAT",
-      "github": "laelacitrasih"
-    },
-    {
-      "name": "Ramadhan Nur Cholis Januar",
-      "discordName": "383799731052347406",
-      "status": "REPEAT",
-      "github": "Adhann"
-    },
-    {
-      "name": "raden hastungkara",
-      "discordName": "545601954928394262",
-      "status": "WITHDRAW",
-      "github": "hstgkr"
-    },
-    {
-      "name": "Awang Medidat",
-      "discordName": "749244203984486484",
-      "status": "DROP OUT",
-      "github": "AwangMedidat"
-    },
-    {
-      "name": "iqbal baihaqi abdulah",
-      "discordName": "680899020939591767",
-      "status": "REPEAT",
-      "github": "iqballbayhaqi"
-    },
-    {
-      "name": "Oki Pratama Putra",
-      "discordName": "278559411537182720",
-      "status": "REPEAT",
-      "github": "okipratama97"
+      "github": "adhityaprianda"
     },
     {
       "name": "Bambang Arif Susilo",
-      "discordName": "780153329660723220",
-      "status": "REPEAT",
+      "discordId": "780153329660723220",
+      "status": "DROP OUT",
       "github": "arifnex-99"
     },
     {
-      "name": "Timotius Anrez",
-      "discordName": "759524691261522020",
+      "name": "Benedict Laju",
+      "discordId": "489824884117995532",
       "status": "REPEAT",
-      "github": "TimotiusAnrez"
-    },
-    {
-      "name": "Abdul Mujib Firmansyah",
-      "discordName": "779532433015308309",
-      "status": "REPEAT",
-      "github": "abdulmujibf"
-    },
-    {
-      "name": "Amos Wijaya",
-      "discordName": "431073619834044426",
-      "status": "REPEAT",
-      "github": "amoswijaya"
-    },
-    {
-      "name": "Muhammad Suryo Prabowo",
-      "discordName": "428201662675550228",
-      "status": "REPEAT",
-      "github": "muhammadsuryo31"
-    },
-    {
-      "name": "Stanly Kwok",
-      "discordName": "740104377120850052",
-      "status": "REPEAT",
-      "github": "stanlys96"
-    },
-    {
-      "name": "Angganararas Lungidningtyas",
-      "discordName": "423135825119805475",
-      "status": "REPEAT",
-      "github": "anggi3234"
-    },
-    {
-      "name": "Muhammad Zalfa Wibawa Akbari",
-      "discordName": "408591081219817472",
-      "status": "DROP OUT",
-      "github": "kunjatt"
-    },
-    {
-      "name": "Daniel Adhi Nugraha",
-      "discordName": "180797057211039745",
-      "status": "REPEAT",
-      "github": "luimiguia"
-    },
-    {
-      "name": "ken harjuna",
-      "discordName": "779653897198239745",
-      "status": "REPEAT",
-      "github": "k3nharjuna"
-    },
-    {
-      "name": "Yehezkiel Hutagalung",
-      "discordName": "727074034499584021",
-      "status": "DROP OUT",
-      "github": "ezekielhutagalung"
-    },
-    {
-      "name": "Puspa Widya Paramitha",
-      "discordName": "779559830763077642",
-      "status": "REPEAT",
-      "github": "PuspaWidya"
-    },
-    {
-      "name": "Ronald F Sidauruk",
-      "discordName": "757062785090715719",
-      "status": "DROP OUT",
-      "github": "ronaldfsidauruk"
-    },
-    {
-      "name": "Calvin Yonda",
-      "discordName": "276641700653563904",
-      "status": "DROP OUT",
-      "github": "kudaer69"
-    },
-    {
-      "name": "Dody Tri Fatwadi",
-      "discordName": "779623449810960385",
-      "status": "REPEAT",
-      "github": "dodytrifa"
-    },
-    {
-      "name": "M Fiqri Milano",
-      "discordName": "475158501837242399",
-      "status": "REPEAT",
-      "github": "Milandak19"
-    },
-    {
-      "name": "Qasim Qawwamuddin",
-      "discordName": "693765542984548353",
-      "status": "DROP OUT",
-      "github": "kyu99"
-    },
-    {
-      "name": "Reza Mahendra Surin",
-      "discordName": "245252720594780171",
-      "status": "REPEAT",
-      "github": "rezasurin"
-    },
-    {
-      "name": "arinda rahma dini",
-      "discordName": "779735074320023562",
-      "status": "REPEAT",
-      "github": "arindarahmadini"
-    },
-    {
-      "name": "Nyoman Adiwinanda",
-      "discordName": "244236760069046282",
-      "status": "REPEAT",
-      "github": "NyomanAdiwinanda"
-    },
-    {
-      "name": "Steve Junior Timbuleng",
-      "discordName": "720573563471527996",
-      "status": "DROP OUT",
-      "github": "stevejti"
-    },
-    {
-      "name": "Ingrid Tambunan",
-      "discordName": "676071138350333967",
-      "status": "REPEAT",
-      "github": "ItsDigitalEngine"
-    },
-    {
-      "name": "Sutan Arief Sinar Abdurrachman",
-      "discordName": "280369073244864513",
-      "status": "REPEAT",
-      "github": "sutanarief"
-    },
-    {
-      "name": "Amiruriza -",
-      "discordName": "524971295146770452",
-      "status": "REPEAT",
-      "github": "aruri-z"
-    },
-    {
-      "name": "Muhammad Burhanudin Yusuf",
-      "discordName": "249397233705943041",
-      "status": "REPEAT",
-      "github": "hanzkid"
-    },
-    {
-      "name": "Romario Joseph",
-      "discordName": "442900546710667274",
-      "status": "REPEAT",
-      "github": "RJO-001"
-    },
-    {
-      "name": "Fakhri Ahmad",
-      "discordName": "769421813205696572",
-      "status": "DROP OUT",
-      "github": "fakhri15"
-    },
-    {
-      "name": "Firman Isnaeni",
-      "discordName": "420938537379168258",
-      "status": "REPEAT",
-      "github": "firman9979"
-    },
-    {
-      "name": "Muhammad harits Medina",
-      "discordName": "425242780076605441",
-      "status": "REPEAT",
-      "github": "haritsmedina"
-    },
-    {
-      "name": "Adityo Prabowo",
-      "discordName": "724965383764967476",
-      "status": "REPEAT",
-      "github": "dithyprabowo51"
-    },
-    {
-      "name": "Diardo Marendi Krista",
-      "discordName": "232505256263680000",
-      "status": "REPEAT",
-      "github": "diardomarendikrista"
-    },
-    {
-      "name": "Muhamad Luthfi Azhari",
-      "discordName": "630990811252785162",
-      "status": "DROP OUT",
-      "github": "lthfiazhari"
-    },
-    {
-      "name": "Luthfi Muhaimin",
-      "discordName": "764710326683566101",
-      "status": "REPEAT",
-      "github": "luthfimhmn"
-    },
-    {
-      "name": "Resa Irsanto",
-      "discordName": "774142062798307438",
-      "status": "WITHDRAW",
-      "github": "resairsanto"
-    },
-    {
-      "name": "Risky Dwi Omasio",
-      "discordName": "kosong",
-      "status": "CUTI",
-      "github": "risky"
-    },
-    {
-      "name": "Amilio Asmaramis",
-      "discordName": "333565764219174912",
-      "status": "REPEAT",
-      "github": "AmilioAsmaramis"
-    },
-    {
-      "name": "FERDIAN ATMADIPUTRA",
-      "discordName": "210392802138390528",
-      "status": "REPEAT",
-      "github": "ferdianatmadiputra"
-    },
-    {
-      "name": "Rofi Akmaluddin",
-      "discordName": "780078096929652747",
-      "status": "REPEAT",
-      "github": "rofiakmaluddin"
-    },
-    {
-      "name": "Ryan Rumpoko",
-      "discordName": "486356698768998407",
-      "status": "DROP OUT",
-      "github": "RyanRumpoko"
-    },
-    {
-      "name": "Mahdalena Putri",
-      "discordName": "599179014695026688",
-      "status": "DROP OUT",
-      "github": "mahdalenaputry20"
-    },
-    {
-      "name": "Mizwar Badawi",
-      "discordName": "759682158033371137",
-      "status": "REPEAT",
-      "github": "MizwarBdw"
-    },
-    {
-      "name": "Amardev Singh",
-      "discordName": "414604214652895259",
-      "status": "REPEAT",
-      "github": "amardevsingh98"
-    },
-    {
-      "name": "MHD RIZKI CANDRA",
-      "discordName": "779958953974956063",
-      "status": "REPEAT",
-      "github": "rizkicaandra"
-    },
-    {
-      "name": "Rizky Rahman",
-      "discordName": "779538493223338024",
-      "status": "REPEAT",
-      "github": "k1man"
-    },
-    {
-      "name": "Farid Juliano",
-      "discordName": "715513734742933555",
-      "status": "REPEAT",
-      "github": "HantuPutih"
-    },
-    {
-      "name": "Yuri Wardana",
-      "discordName": "374840353519566848",
-      "status": "DROP OUT",
-      "github": "YuriWardana"
-    },
-    {
-      "name": "Alexandro Moningkey",
-      "discordName": "698536411695022091",
-      "status": "DROP OUT",
-      "github": "andomatthew"
-    },
-    {
-      "name": "Angga Maulana",
-      "discordName": "510970500227268608",
-      "status": "REPEAT",
-      "github": "khanz1"
-    },
-    {
-      "name": "Gifania Lestari",
-      "discordName": "540208315175534592",
-      "status": "REPEAT",
-      "github": "gifaniasofia"
-    },
-    {
-      "name": "Soraida Sabella",
-      "discordName": "767929872659120148",
-      "status": "REPEAT",
-      "github": "SoraSabella"
-    },
-    {
-      "name": "Ilham Akbar Syahputra",
-      "discordName": "701825851263680572",
-      "status": "REPEAT",
-      "github": "ilhamas18"
+      "github": "Markkerss"
     },
     {
       "name": "Mahesa Nur Alamsyah",
-      "discordName": "549410191884550193",
-      "status": "REPEAT",
+      "discordId": "549410191884550193",
+      "status": "DROP OUT",
       "github": "Mahe3010"
+    },
+    {
+      "name": "roli bernanda  ",
+      "discordId": "416621473084473364",
+      "status": "REPEAT",
+      "github": "rbernanda"
+    },
+    {
+      "name": "catur prasetyo  ",
+      "discordId": "769800530116739072",
+      "status": "REPEAT",
+      "github": "caturprasatya"
+    },
+    {
+      "name": "Fahmi Sinergia",
+      "discordId": "401796195246276618",
+      "status": "REPEAT",
+      "github": "fahmialis"
+    },
+    {
+      "name": "Irwan Sahputra (Reg)",
+      "discordId": "525978443331010560",
+      "status": "DROP OUT",
+      "github": "irwansahputra"
+    },
+    {
+      "name": "Mizwar Badawi",
+      "discordId": "759682158033371137",
+      "status": "DROP OUT",
+      "github": "MizwarBdw"
+    },
+    {
+      "name": "Salsabilla Mauliddina Aswita Akbar  ",
+      "discordId": "664857923754917900",
+      "status": "REPEAT",
+      "github": "salsabillamauliddina"
+    },
+    {
+      "name": "Wahyu Winoto",
+      "discordId": "780006618255458305",
+      "status": "DROP OUT",
+      "github": "wahyuwinoto"
+    },
+    {
+      "name": "Boby Bewa",
+      "discordId": "649873491763658754",
+      "status": "REPEAT",
+      "github": "bobybewa"
+    },
+    {
+      "name": "Luthfi Muhaimin",
+      "discordId": "764710326683566101",
+      "status": "DROP OUT",
+      "github": "luthfimhmn"
+    },
+    {
+      "name": "Mochammad Fachry Sumantri",
+      "discordId": "696666923923931166",
+      "status": "REPEAT",
+      "github": "FachryMochammad"
+    },
+    {
+      "name": "Novialita Wibowo  ",
+      "discordId": "739561947800010852",
+      "status": "REPEAT",
+      "github": "viaylwen "
+    },
+    {
+      "name": "NURVAN DWI HANANTO",
+      "discordId": "213512788037992449",
+      "status": "REPEAT",
+      "github": "nurvandwi"
+    },
+    {
+      "name": "Agung Hanifan Lutfiyanto",
+      "discordId": "696354086727188601",
+      "status": "REPEAT",
+      "github": "agunghanifan"
+    },
+    {
+      "name": "Ilham Akbar Syahputra",
+      "discordId": "701825851263680572",
+      "status": "DROP OUT",
+      "github": "ilhamas18"
+    },
+    {
+      "name": "Masghifari Revy Fadjri",
+      "discordId": "646062112053133343",
+      "status": "DROP OUT",
+      "github": "masghi63"
+    },
+    {
+      "name": "Muhammad Arkan Mufadho",
+      "discordId": "795179783423262720",
+      "status": "REPEAT",
+      "github": "mufendew"
+    },
+    {
+      "name": "Naufal Wibisono",
+      "discordId": "741168279422369823",
+      "status": "REPEAT",
+      "github": "naufalwibs"
+    },
+    {
+      "name": "Rangga syahrial",
+      "discordId": "kosong",
+      "status": "REPEAT",
+      "github": "kosong"
+    },
+    {
+      "name": "Arief Ramadhan Wibisono  ",
+      "discordId": "767024715742576650",
+      "status": "REPEAT",
+      "github": "kasaifox"
+    },
+    {
+      "name": "Dian Rizki Pratama",
+      "discordId": "706935060565327952",
+      "status": "DROP OUT",
+      "github": "dianrp22"
+    },
+    {
+      "name": "Mathias Santoso",
+      "discordId": "333234711360962560",
+      "status": "REPEAT",
+      "github": "Mathias182"
+    },
+    {
+      "name": "Muhammad Hafidz Hubbusysyuhada",
+      "discordId": "290444114162614272",
+      "status": "REPEAT",
+      "github": "hubbusysyuhada"
+    },
+    {
+      "name": "Muhammad harits Medina",
+      "discordId": "425242780076605441",
+      "status": "DROP OUT",
+      "github": "haritsmedina"
+    },
+    {
+      "name": "Risky Dwi Omasio",
+      "discordId": "kosong",
+      "status": "REPEAT",
+      "github": "risky"
+    },
+    {
+      "name": "Brilian Rachmad Nurwachidin",
+      "discordId": "794363606656352296",
+      "status": "REPEAT",
+      "github": "brilianrn"
+    },
+    {
+      "name": "Fajri Pitutur Jati",
+      "discordId": "779584059080572929",
+      "status": "REPEAT",
+      "github": "FajriPJ"
+    },
+    {
+      "name": "Muhammad Fajar Wira Azdi Azdi",
+      "discordId": "691621728660750346",
+      "status": "REPEAT",
+      "github": "gondhes"
+    },
+    {
+      "name": "Reza Habrizal  ",
+      "discordId": "779884631666589706",
+      "status": "REPEAT",
+      "github": "RezaHabrizal"
+    },
+    {
+      "name": "Reza Mahendra Surin",
+      "discordId": "245252720594780171",
+      "status": "DROP OUT",
+      "github": "rezasurin"
+    },
+    {
+      "name": "Christian Wirawan",
+      "discordId": "234262765622001664",
+      "status": "Withdraw",
+      "github": "christianwira"
+    },
+    {
+      "name": "Ghazan Athar Krisna",
+      "discordId": "334288164669751296",
+      "status": "DROP OUT",
+      "github": "ghazanak47"
+    },
+    {
+      "name": "Haydar Yusron",
+      "discordId": "780061946925285376",
+      "status": "REPEAT",
+      "github": "HaidarYusron"
+    },
+    {
+      "name": "Hilman Auzan Mulyono",
+      "discordId": "335810471636500480",
+      "status": "REPEAT",
+      "github": "hilmanauz"
+    },
+    {
+      "name": "Rama Cahya Santoso ",
+      "discordId": "408143091791429632",
+      "status": "REPEAT",
+      "github": "ramacahya"
+    },
+    {
+      "name": "Vincent Karlan",
+      "discordId": "780312162933538835",
+      "status": "Pindah flex",
+      "github": "vnc-code"
+    },
+    {
+      "name": "Abdul Majid",
+      "discordId": "610064683596251136",
+      "status": "REPEAT",
+      "github": "abdulmajid34"
+    },
+    {
+      "name": "Benhur Nainggolan",
+      "discordId": "424155186249072650",
+      "status": "REPEAT",
+      "github": "ben12312"
+    },
+    {
+      "name": "M. Rizal Arvandy",
+      "discordId": "587203533347094540",
+      "status": "REPEAT",
+      "github": "mrarvandy"
+    },
+    {
+      "name": "Muhammad Afif Izuddin",
+      "discordId": "772443459227353138",
+      "status": "REPEAT",
+      "github": "afifizzudn#1650"
+    },
+    {
+      "name": "Puspa Widya Paramitha",
+      "discordId": "779559830763077642",
+      "status": "DROP OUT",
+      "github": "PuspaWidya"
+    },
+    {
+      "name": "Ricky Hemawan",
+      "discordId": "794147046830768159",
+      "status": "REPEAT",
+      "github": "rickyhemawan"
+    },
+    {
+      "name": "allufsen sahala  ",
+      "discordId": "769439801920847902",
+      "status": "REPEAT",
+      "github": "allufsen"
+    },
+    {
+      "name": "Denny Sihol Ronaldo",
+      "discordId": "795249431578017793",
+      "status": "REPEAT",
+      "github": "dennysihol"
+    },
+    {
+      "name": "Joshua Fanera",
+      "discordId": "778168906594385940",
+      "status": "DROP OUT",
+      "github": "J-R4"
+    },
+    {
+      "name": "Krisna Krisna",
+      "discordId": "795526035009568809",
+      "status": "kosong",
+      "github": "krisnakris"
+    },
+    {
+      "name": "Rio Dicky Angga Irawan",
+      "discordId": "484667873323778068",
+      "status": "REPEAT",
+      "github": "dickyanggairaw"
+    },
+    {
+      "name": "Zikri Anbia",
+      "discordId": "755471428278812703",
+      "status": "REPEAT",
+      "github": "zikrianbia"
+    },
+    {
+      "name": "BILLY PESOTH",
+      "discordId": "691986454649372764",
+      "status": "REPEAT",
+      "github": "billybep"
+    },
+    {
+      "name": "Dody Setiawan",
+      "discordId": "495944889423626252",
+      "status": "REPEAT",
+      "github": "dodsstwn"
+    },
+    {
+      "name": "erbby danastian  ",
+      "discordId": "702850480065216573",
+      "status": "REPEAT",
+      "github": "fruelda"
+    },
+    {
+      "name": "Muhamad Saifulloh",
+      "discordId": "709273493589459006",
+      "status": "REPEAT",
+      "github": "regakun"
+    },
+    {
+      "name": "Siti Aisyah",
+      "discordId": "779573639078215690",
+      "status": "REPEAT",
+      "github": "syaisyah"
+    },
+    {
+      "name": "Timotius Anrez",
+      "discordId": "759524691261522020",
+      "status": "DROP OUT",
+      "github": "TimotiusAnrez"
+    },
+    {
+      "name": "Edward Brainerd",
+      "discordId": "568765570259091476",
+      "status": "REPEAT",
+      "github": "Brein-369"
+    },
+    {
+      "name": "Fawwaz Aulia Fadhil",
+      "discordId": "283585653164212235",
+      "status": "REPEAT",
+      "github": "falidhil"
+    },
+    {
+      "name": "Markus Daniel",
+      "discordId": "759775327903154226",
+      "status": "DROP OUT",
+      "github": "MDB-sys"
+    },
+    {
+      "name": "Muhammad Dimas Firmanda (Reg)",
+      "discordId": "666663398662209536",
+      "status": "REPEAT",
+      "github": "dim-27"
+    },
+    {
+      "name": "Soraida Sabella",
+      "discordId": "767929872659120148",
+      "status": "DROP OUT",
+      "github": "SoraSabella"
+    },
+    {
+      "name": "Adivigo Khalishtama",
+      "discordId": "278893131787665408",
+      "status": "DROP OUT",
+      "github": "adivigo"
+    },
+    {
+      "name": "ahmad hanafi  ",
+      "discordId": "769394530797486141",
+      "status": "REPEAT",
+      "github": "ahmad-hanafi"
+    },
+    {
+      "name": "Ingrid Tambunan",
+      "discordId": "676071138350333967",
+      "status": "DROP OUT",
+      "github": "ItsDigitalEngine"
+    },
+    {
+      "name": "martinus dwi  ",
+      "discordId": "756500712405598278",
+      "status": "REPEAT",
+      "github": "Sudah"
+    },
+    {
+      "name": "Robby Benta",
+      "discordId": "705417126327877702",
+      "status": "REPEAT",
+      "github": "robbybenta"
+    },
+    {
+      "name": "Samuel Riady",
+      "discordId": "241507282699943936",
+      "status": "REPEAT",
+      "github": "limajima"
     }
   ],
-  "total": 94
+  "total": 73
 }
