@@ -105,6 +105,7 @@ client.on("message", async (message) => {
         const repeatMember = [];
         const withdrawMember = [];
         const cutiMember = [];
+        const uncompleteData = [];
         members.forEach(async (member) => {
           const isExist = data.result.filter(
             (student) => student.discordId.trim() === member.user.id
@@ -113,7 +114,6 @@ client.on("message", async (message) => {
             username: member.user.username,
             unique: member.user.discriminator,
             id: member.user.id,
-            nickname: member.nickname,
             sheetData: isExist,
           };
           if (isExist.length > 0) {
@@ -127,8 +127,15 @@ client.on("message", async (message) => {
             } else if (status === "withdraw") {
               withdrawMember.push(memberData);
             } else if (status === "cuti") {
-              console.log(status, "<-----", memberData);
               cutiMember.push(memberData);
+            }
+
+            if (
+              !isExist[0].discordId ||
+              !isExist[0].github ||
+              !isExist[0].status
+            ) {
+              uncompleteData.push(memberData);
             }
             validMember.push(memberData);
           } else {
@@ -139,6 +146,14 @@ client.on("message", async (message) => {
           `${args[0]}/${args[0]}.json`,
           JSON.stringify(
             { data: validMember, total: validMember.length },
+            null,
+            2
+          )
+        );
+        fs.writeFileSync(
+          `${args[0]}/${args[0]}-uncomplete.json`,
+          JSON.stringify(
+            { data: uncompleteData, total: uncompleteData.length },
             null,
             2
           )
@@ -325,7 +340,7 @@ client.on("message", async (message) => {
         console.log(error);
         return message.channel.send("An error occured");
       }
-      break
+      break;
     default:
       break;
   }

@@ -85,6 +85,20 @@
       ]
     },
     {
+      "username": "Risky Dwi",
+      "unique": "2411",
+      "id": "749705553311432855",
+      "nickname": null,
+      "sheetData": [
+        {
+          "name": "Risky Dwi Omasio",
+          "discordId": "749705553311432855",
+          "status": "REPEAT",
+          "github": "risky"
+        }
+      ]
+    },
+    {
       "username": "Mohammad Arkan Mufadho",
       "unique": "6933",
       "id": "795179783423262720",
@@ -547,16 +561,16 @@
       ]
     },
     {
-      "username": "Mathias182",
-      "unique": "6977",
-      "id": "333234711360962560",
-      "nickname": "Mathias",
+      "username": "Rangga Eki Syahrial",
+      "unique": "5549",
+      "id": "492852833809465344",
+      "nickname": null,
       "sheetData": [
         {
-          "name": "Mathias Santoso",
-          "discordId": "333234711360962560",
+          "name": "Rangga syahrial",
+          "discordId": "492852833809465344",
           "status": "REPEAT",
-          "github": "Mathias182"
+          "github": ""
         }
       ]
     },
@@ -659,5 +673,5 @@
       ]
     }
   ],
-  "total": 47
+  "total": 48
 }
