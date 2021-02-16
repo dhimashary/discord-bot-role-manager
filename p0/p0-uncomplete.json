@@ -4,13 +4,13 @@
       "username": "Panji Maulana",
       "unique": "7288",
       "id": "546171464944975872",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Panji Maulana",
           "discordId": "546171464944975872",
           "status": "Failed",
-          "github": ""
+          "github": "",
+          "wakatime": "af91bb57-26e8-4ac8-81a3-f0a6882d3e5a"
         }
       ]
     },
@@ -18,16 +18,16 @@
       "username": "Thesar",
       "unique": "1622",
       "id": "444892067601055776",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Thesar Nadhif",
           "discordId": "444892067601055776",
           "status": "Failed",
-          "github": ""
+          "github": "",
+          "wakatime": ""
         }
       ]
     }
   ],
-  "total": 51
+  "total": 2
 }

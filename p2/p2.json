@@ -4,13 +4,13 @@
       "username": "Agus Riyanto",
       "unique": "6766",
       "id": "673805992793866251",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Agus Riyanto",
           "discordId": "673805992793866251",
           "status": "REPEAT",
-          "github": "agsriyanto"
+          "github": "agsriyanto",
+          "wakatime": "bff98c8f-72e4-426b-89bc-d66f12a81bbe"
         }
       ]
     },
@@ -18,13 +18,13 @@
       "username": "squadmaster",
       "unique": "2800",
       "id": "715513734742933555",
-      "nickname": "Farid Juliano",
       "sheetData": [
         {
           "name": "Farid Juliano",
           "discordId": "715513734742933555",
           "status": "REPEAT",
-          "github": "HantuPutih"
+          "github": "HantuPutih",
+          "wakatime": "a644752c-9d3e-48f3-bb29-0aa68117304c"
         }
       ]
     },
@@ -32,13 +32,13 @@
       "username": "Wibowo",
       "unique": "0330",
       "id": "769855059092701184",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Wibowo Laksana",
           "discordId": "769855059092701184",
           "status": "DROP OUT",
-          "github": "wibowo-laks"
+          "github": "wibowo-laks",
+          "wakatime": "6ec0d4c7-5871-4dff-ba9a-7503f286aa33"
         }
       ]
     },
@@ -46,13 +46,13 @@
       "username": "rinaldi.adrian",
       "unique": "7542",
       "id": "310667359205720065",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Rinaldi Adrian Mohammad",
           "discordId": "310667359205720065",
           "status": "REPEAT",
-          "github": "LearnProcessing"
+          "github": "LearnProcessing",
+          "wakatime": "15fd6914-6ea2-4dfe-a53f-0babe257f6e2"
         }
       ]
     },
@@ -60,13 +60,13 @@
       "username": "AgoengDenisa78",
       "unique": "2818",
       "id": "672021953481277450",
-      "nickname": "Mas Agung Denisa Bekam",
       "sheetData": [
         {
           "name": "Mas Agung Denisa Bekam",
           "discordId": "672021953481277450",
           "status": "REPEAT",
-          "github": "Agung78"
+          "github": "Agung78",
+          "wakatime": "88e8ed99-fbf7-4e4e-bf31-b44a2c7f1668"
         }
       ]
     },
@@ -74,13 +74,13 @@
       "username": "Dzunnurain Achmad Azhar",
       "unique": "6353",
       "id": "779576435101663272",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Dzunnurain Achmad",
           "discordId": "779576435101663272",
           "status": "REPEAT",
-          "github": "dzunnurainachmad"
+          "github": "dzunnurainachmad",
+          "wakatime": ""
         }
       ]
     },
@@ -88,13 +88,13 @@
       "username": "Angganararas (Anggi)",
       "unique": "1260",
       "id": "423135825119805475",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Angganararas Lungidningtyas",
           "discordId": "423135825119805475",
           "status": "REPEAT",
-          "github": "anggi3234"
+          "github": "anggi3234",
+          "wakatime": "c2618d55-1a32-476f-83ab-371e6056785c"
         }
       ]
     },
@@ -102,13 +102,13 @@
       "username": "Ridho Hansyah",
       "unique": "4963",
       "id": "546681289994928149",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Ridho Hansyah",
           "discordId": "546681289994928149",
           "status": "REPEAT",
-          "github": "hansyahridho07"
+          "github": "hansyahridho07",
+          "wakatime": ""
         }
       ]
     },
@@ -116,13 +116,13 @@
       "username": "Ezekiel Hutagalung",
       "unique": "2069",
       "id": "727074034499584021",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Yehezkiel Hutagalung",
           "discordId": "727074034499584021",
           "status": "DROP OUT",
-          "github": "ezekielhutagalung"
+          "github": "ezekielhutagalung",
+          "wakatime": ""
         }
       ]
     },
@@ -130,13 +130,13 @@
       "username": "alkindi",
       "unique": "9453",
       "id": "518721325733380102",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Alkindi Alkindi",
           "discordId": "518721325733380102",
           "status": "DROP OUT",
-          "github": "kindi-zack"
+          "github": "kindi-zack",
+          "wakatime": "0a95dde9-5e40-42a2-93fc-4a098a6d7992"
         }
       ]
     },
@@ -144,13 +144,13 @@
       "username": "Muhammad Burhanudin Yusuf",
       "unique": "2717",
       "id": "249397233705943041",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Muhammad Burhanudin Yusuf",
           "discordId": "249397233705943041",
           "status": "REPEAT",
-          "github": "hanzkid"
+          "github": "hanzkid",
+          "wakatime": "ad659154-900c-41fd-be75-e8e18d5971a4"
         }
       ]
     },
@@ -158,13 +158,13 @@
       "username": "ken harjuna",
       "unique": "4620",
       "id": "779653897198239745",
-      "nickname": null,
       "sheetData": [
         {
           "name": "ken harjuna",
           "discordId": "779653897198239745",
           "status": "REPEAT",
-          "github": "k3nharjuna"
+          "github": "k3nharjuna",
+          "wakatime": ""
         }
       ]
     },
@@ -172,13 +172,13 @@
       "username": "Arinda Rahma Dini",
       "unique": "9174",
       "id": "779735074320023562",
-      "nickname": null,
       "sheetData": [
         {
           "name": "arinda rahma dini",
           "discordId": "779735074320023562",
           "status": "REPEAT",
-          "github": "arindarahmadini"
+          "github": "arindarahmadini",
+          "wakatime": "ff9837f2-8826-4956-b839-665b352492ee"
         }
       ]
     },
@@ -186,13 +186,13 @@
       "username": "Edwin Dharmawan",
       "unique": "3056",
       "id": "762713277100458004",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Edwin Dharmawan",
           "discordId": "762713277100458004",
           "status": "DROP OUT",
-          "github": "edwindhrmwn"
+          "github": "edwindhrmwn",
+          "wakatime": ""
         }
       ]
     },
@@ -200,13 +200,13 @@
       "username": "CLorenzo",
       "unique": "6522",
       "id": "141281721940312064",
-      "nickname": "Christ Lorenzo Harlyandi",
       "sheetData": [
         {
           "name": "Christ Lorenzo Harlyandi",
           "discordId": "141281721940312064",
           "status": "REPEAT",
-          "github": "CLorenzoH"
+          "github": "CLorenzoH",
+          "wakatime": "6778fd27-085c-4224-b10d-3af67a2504b5"
         }
       ]
     },
@@ -214,13 +214,13 @@
       "username": "Calvin",
       "unique": "4635",
       "id": "276641700653563904",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Calvin Yonda",
           "discordId": "276641700653563904",
           "status": "DROP OUT",
-          "github": "kudaer69"
+          "github": "kudaer69",
+          "wakatime": ""
         }
       ]
     },
@@ -228,13 +228,13 @@
       "username": "Stewart",
       "unique": "8311",
       "id": "98033673055514624",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Stewart Tiolamon",
           "discordId": "98033673055514624",
           "status": "REPEAT",
-          "github": "gamerberiman"
+          "github": "gamerberiman",
+          "wakatime": "20db577643-35d9-4a64-aa85-755827dd8751"
         }
       ]
     },
@@ -242,13 +242,13 @@
       "username": "Stanly Sukmajaya Kwok",
       "unique": "0708",
       "id": "740104377120850052",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Stanly Kwok",
           "discordId": "740104377120850052",
           "status": "REPEAT",
-          "github": "stanlys96"
+          "github": "stanlys96",
+          "wakatime": "9e294ea8-b1ae-4020-af7d-3c691105c890"
         }
       ]
     },
@@ -256,13 +256,13 @@
       "username": "lthfiazhari",
       "unique": "1016",
       "id": "630990811252785162",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Muhamad Luthfi Azhari",
           "discordId": "630990811252785162",
           "status": "DROP OUT",
-          "github": "lthfiazhari"
+          "github": "lthfiazhari",
+          "wakatime": "f0f4d0ea-09c6-4ad2-ac7a-b1441325b52e"
         }
       ]
     },
@@ -270,13 +270,13 @@
       "username": "Hamzah",
       "unique": "8429",
       "id": "349363631122546688",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Hamzah Yulfian",
           "discordId": "349363631122546688",
           "status": "",
-          "github": "hamzahay"
+          "github": "hamzahay",
+          "wakatime": "72c8fbfd-219e-4a26-88fa-cc8a4d0d3986"
         }
       ]
     },
@@ -284,13 +284,13 @@
       "username": "Fakhri Husamulhaq Ahmad",
       "unique": "2025",
       "id": "769421813205696572",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Fakhri Ahmad",
           "discordId": "769421813205696572",
           "status": "DROP OUT",
-          "github": "fakhri15"
+          "github": "fakhri15",
+          "wakatime": "4c2f95fb-4720-4831-8a00-151db599b8c0"
         }
       ]
     },
@@ -298,13 +298,13 @@
       "username": "indo halim",
       "unique": "5768",
       "id": "779574138552975360",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Indo Halim",
           "discordId": "779574138552975360",
           "status": "REPEAT",
-          "github": "indoderiano"
+          "github": "indoderiano",
+          "wakatime": "db577643-35d9-4a64-aa85-755827dd8751"
         }
       ]
     },
@@ -312,13 +312,13 @@
       "username": "Milano",
       "unique": "8305",
       "id": "475158501837242399",
-      "nickname": null,
       "sheetData": [
         {
           "name": "M Fiqri Milano",
           "discordId": "475158501837242399",
           "status": "REPEAT",
-          "github": "Milandak19"
+          "github": "Milandak19",
+          "wakatime": "fa4884f3-4258-4cee-9e60-5b5eae787b87"
         }
       ]
     },
@@ -326,13 +326,13 @@
       "username": "amos wijaya",
       "unique": "4513",
       "id": "431073619834044426",
-      "nickname": "amos",
       "sheetData": [
         {
           "name": "Amos Wijaya",
           "discordId": "431073619834044426",
           "status": "REPEAT",
-          "github": "amoswijaya"
+          "github": "amoswijaya",
+          "wakatime": ""
         }
       ]
     },
@@ -340,13 +340,13 @@
       "username": "Awang Medidat",
       "unique": "9153",
       "id": "749244203984486484",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Awang Medidat",
           "discordId": "749244203984486484",
           "status": "DROP OUT",
-          "github": "AwangMedidat"
+          "github": "AwangMedidat",
+          "wakatime": "cba99e3a-e520-4ec2-ab88-a62f02f940c5"
         }
       ]
     },
@@ -354,13 +354,13 @@
       "username": "DanangP",
       "unique": "2383",
       "id": "579728787365691394",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Wahyu Danang Prabowo",
           "discordId": "579728787365691394",
           "status": "DROP OUT",
-          "github": "mrdanang"
+          "github": "mrdanang",
+          "wakatime": "e436ba8f-a209-4e68-8bf2-0e320ac552f3"
         }
       ]
     },
@@ -368,13 +368,13 @@
       "username": "Galang Rafly Ardian",
       "unique": "8984",
       "id": "576664932511252481",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Galang Ardian",
           "discordId": "576664932511252481",
           "status": "REPEAT",
-          "github": "neuthos"
+          "github": "neuthos",
+          "wakatime": "e9840996-3b2f-4c11-aada-c4f30e18f97a"
         }
       ]
     },
@@ -382,13 +382,13 @@
       "username": "Muhammad Suryo Prabowo",
       "unique": "8389",
       "id": "428201662675550228",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Muhammad Suryo Prabowo",
           "discordId": "428201662675550228",
           "status": "REPEAT",
-          "github": "muhammadsuryo31"
+          "github": "muhammadsuryo31",
+          "wakatime": "e3e15034-da2d-4dc9-8376-1b2bbc363f9c"
         }
       ]
     },
@@ -396,13 +396,13 @@
       "username": "Nyoman Adiwinanda",
       "unique": "6353",
       "id": "244236760069046282",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Nyoman Adiwinanda",
           "discordId": "244236760069046282",
           "status": "REPEAT",
-          "github": "NyomanAdiwinanda"
+          "github": "NyomanAdiwinanda",
+          "wakatime": "d906aa60-933c-44b3-a659-3fd8804b37a1"
         }
       ]
     },
@@ -410,13 +410,13 @@
       "username": "Romario Joseph",
       "unique": "4564",
       "id": "442900546710667274",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Romario Joseph",
           "discordId": "442900546710667274",
           "status": "REPEAT",
-          "github": "RJO-001"
+          "github": "RJO-001",
+          "wakatime": "08fcf0d1-2c0a-4f01-84e1-7e9fdd6163a1"
         }
       ]
     },
@@ -424,13 +424,13 @@
       "username": "gifaniasofia",
       "unique": "7960",
       "id": "540208315175534592",
-      "nickname": "Gifania Sofia Lestari",
       "sheetData": [
         {
           "name": "Gifania Lestari",
           "discordId": "540208315175534592",
           "status": "REPEAT",
-          "github": "gifaniasofia"
+          "github": "gifaniasofia",
+          "wakatime": "1a4e6367-8734-42bf-a6d9-d81a4ee21c65"
         }
       ]
     },
@@ -438,13 +438,13 @@
       "username": "Balee",
       "unique": "8964",
       "id": "680899020939591767",
-      "nickname": "Iqballbaihaqi",
       "sheetData": [
         {
           "name": "iqbal baihaqi abdulah",
           "discordId": "680899020939591767",
           "status": "REPEAT",
-          "github": "iqballbayhaqi"
+          "github": "iqballbayhaqi",
+          "wakatime": "203777bb-9935-4fec-ba87-586a729498f6"
         }
       ]
     },
@@ -452,13 +452,13 @@
       "username": "Febriansyah",
       "unique": "9045",
       "id": "385228387465035828",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Febriansyah Febriansyah",
           "discordId": "385228387465035828",
           "status": "DROP OUT",
-          "github": "blackjac7"
+          "github": "blackjac7",
+          "wakatime": "ff45499c-691d-4ea8-8e72-b3de80137822"
         }
       ]
     },
@@ -466,13 +466,13 @@
       "username": "Dudun",
       "unique": "2978",
       "id": "180797057211039745",
-      "nickname": "Daniel Adhi Nugraha",
       "sheetData": [
         {
           "name": "Daniel Adhi Nugraha",
           "discordId": "180797057211039745",
           "status": "REPEAT",
-          "github": "lumiguia"
+          "github": "lumiguia",
+          "wakatime": ""
         }
       ]
     },
@@ -480,13 +480,13 @@
       "username": "Shulthan Daffa'ul Iman",
       "unique": "1050",
       "id": "779532170883891231",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Shulthan Daffa'ul Iman",
           "discordId": "779532170883891231",
           "status": "REPEAT",
-          "github": "suldaf"
+          "github": "suldaf",
+          "wakatime": "e126f585-01c4-4b55-82fc-aa6592d087ea"
         }
       ]
     },
@@ -494,13 +494,13 @@
       "username": "Mhd Rizki Candra",
       "unique": "5637",
       "id": "779958953974956063",
-      "nickname": null,
       "sheetData": [
         {
           "name": "MHD RIZKI CANDRA",
           "discordId": "779958953974956063",
           "status": "REPEAT",
-          "github": "rizkicaandra"
+          "github": "rizkicaandra",
+          "wakatime": "9b9f197c-a6aa-4856-8217-93423fe9a751"
         }
       ]
     },
@@ -508,13 +508,13 @@
       "username": "M Zalfa",
       "unique": "2491",
       "id": "408591081219817472",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Muhammad Zalfa Wibawa Akbari",
           "discordId": "408591081219817472",
           "status": "DROP OUT",
-          "github": "kunjatt"
+          "github": "kunjatt",
+          "wakatime": "dfce4285-c612-46b7-85ac-13bf91405025"
         }
       ]
     },
@@ -522,13 +522,13 @@
       "username": "Ahmad Akbar",
       "unique": "5102",
       "id": "769807128667881472",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Ahmad Akbar",
           "discordId": "769807128667881472",
           "status": "DROP OUT",
-          "github": "ahmad-akbar"
+          "github": "ahmad-akbar",
+          "wakatime": "c63dbc78-d9b7-4408-a820-a64159525e58"
         }
       ]
     },
@@ -536,13 +536,13 @@
       "username": "Adhan",
       "unique": "8206",
       "id": "383799731052347406",
-      "nickname": "Ramadhan Nur CJ (Adhan)",
       "sheetData": [
         {
           "name": "Ramadhan Nur Cholis Januar",
           "discordId": "383799731052347406",
           "status": "REPEAT",
-          "github": "Adhann"
+          "github": "Adhann",
+          "wakatime": "014974b9-099c-4036-9750-1975eb9e27f7"
         }
       ]
     },
@@ -550,13 +550,13 @@
       "username": "Firman Isnaeni",
       "unique": "7398",
       "id": "420938537379168258",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Firman Isnaeni",
           "discordId": "420938537379168258",
           "status": "REPEAT",
-          "github": "firman9979"
+          "github": "firman9979",
+          "wakatime": ""
         }
       ]
     },
@@ -564,13 +564,13 @@
       "username": "stevejt",
       "unique": "4146",
       "id": "720573563471527996",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Steve Junior Timbuleng",
           "discordId": "720573563471527996",
           "status": "DROP OUT",
-          "github": "stevejti"
+          "github": "stevejti",
+          "wakatime": "b051b5dd-e967-4e69-82ed-398d836cf4ba"
         }
       ]
     },
@@ -578,13 +578,13 @@
       "username": "Amiruriza",
       "unique": "0723",
       "id": "524971295146770452",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Amiruriza -",
           "discordId": "524971295146770452",
           "status": "REPEAT",
-          "github": "aruri-z"
+          "github": "aruri-z",
+          "wakatime": "50db9a45-eda8-4454-96a1-ec2b58a86366"
         }
       ]
     },
@@ -592,13 +592,13 @@
       "username": "riorhezaharris",
       "unique": "7407",
       "id": "239744256342884354",
-      "nickname": "Rio Rheza Harris",
       "sheetData": [
         {
           "name": "Rio Rheza Harris",
           "discordId": "239744256342884354",
           "status": "REPEAT",
-          "github": "riorhezaharris"
+          "github": "riorhezaharris",
+          "wakatime": ""
         }
       ]
     },
@@ -606,13 +606,13 @@
       "username": "Ardian Chandra",
       "unique": "6200",
       "id": "366233978018988032",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Ardian Chandra",
           "discordId": "366233978018988032",
           "status": "REPEAT",
-          "github": "ArdianChandra"
+          "github": "ArdianChandra",
+          "wakatime": "558fc3c4-d8d0-471c-92c0-2e9a54c92e4f"
         }
       ]
     },
@@ -620,13 +620,13 @@
       "username": "Budi Muhamad A",
       "unique": "3621",
       "id": "759378114458812436",
-      "nickname": "Rahman Budi",
       "sheetData": [
         {
           "name": "Budi Muhamad Abdurahman",
           "discordId": "759378114458812436",
           "status": "",
-          "github": "budi-rahman"
+          "github": "budi-rahman",
+          "wakatime": ""
         }
       ]
     },
@@ -634,13 +634,13 @@
       "username": "Oki Pratama",
       "unique": "5117",
       "id": "278559411537182720",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Oki Pratama Putra",
           "discordId": "278559411537182720",
           "status": "REPEAT",
-          "github": "okipratama97"
+          "github": "okipratama97",
+          "wakatime": "8c04b5aa-d281-4abc-a862-9795d567f9f0"
         }
       ]
     },
@@ -648,13 +648,13 @@
       "username": "Andi Samsualam",
       "unique": "6411",
       "id": "780077256147599370",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Andi Samsualam",
           "discordId": "780077256147599370",
           "status": "REPEAT",
-          "github": "alam-sa"
+          "github": "alam-sa",
+          "wakatime": "0927e25a-63a3-452a-9112-520527c61e7c"
         }
       ]
     },
@@ -662,13 +662,13 @@
       "username": "Xavierr",
       "unique": "9999",
       "id": "510970500227268608",
-      "nickname": "Angga Maulana",
       "sheetData": [
         {
           "name": "Angga Maulana",
           "discordId": "510970500227268608",
           "status": "REPEAT",
-          "github": "khanz1"
+          "github": "khanz1",
+          "wakatime": "c2da9b81-3c16-4577-8f54-e502eabb8774"
         }
       ]
     },
@@ -676,13 +676,13 @@
       "username": "Dody T",
       "unique": "1010",
       "id": "779623449810960385",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Dody Tri Fatwadi",
           "discordId": "779623449810960385",
           "status": "REPEAT",
-          "github": "dodytrifa"
+          "github": "dodytrifa",
+          "wakatime": "7f1211b3-4315-400c-962e-9cedfe812347"
         }
       ]
     },
@@ -690,13 +690,13 @@
       "username": "Abdul Mujib F",
       "unique": "9557",
       "id": "779532433015308309",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Abdul Mujib Firmansyah",
           "discordId": "779532433015308309",
           "status": "REPEAT",
-          "github": "abdulmujibf"
+          "github": "abdulmujibf",
+          "wakatime": "21bd6c29-9699-4703-b980-973ac0467116"
         }
       ]
     },
@@ -704,13 +704,13 @@
       "username": "Laela Citra Asih",
       "unique": "6115",
       "id": "779663420357214208",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Laela Citra Asih",
           "discordId": "779663420357214208",
           "status": "REPEAT",
-          "github": "laelacitrasih"
+          "github": "laelacitrasih",
+          "wakatime": "be913213-aebd-43ab-81b4-6fdef8e3137a"
         }
       ]
     },
@@ -718,13 +718,13 @@
       "username": "Ferdian Atmadiputra",
       "unique": "5034",
       "id": "210392802138390528",
-      "nickname": null,
       "sheetData": [
         {
           "name": "FERDIAN ATMADIPUTRA",
           "discordId": "210392802138390528",
           "status": "REPEAT",
-          "github": "ferdianatmadiputra"
+          "github": "ferdianatmadiputra",
+          "wakatime": ""
         }
       ]
     },
@@ -732,13 +732,13 @@
       "username": "Alexandro",
       "unique": "9971",
       "id": "698536411695022091",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Alexandro Moningkey",
           "discordId": "698536411695022091",
           "status": "DROP OUT",
-          "github": "andomatthew"
+          "github": "andomatthew",
+          "wakatime": "a591e4e8-3869-4171-bff2-6bbd2506ae97"
         }
       ]
     },
@@ -746,13 +746,13 @@
       "username": "Rizki Ardyan",
       "unique": "0940",
       "id": "716438645791391768",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Muhammad Rizki Ardyan",
           "discordId": "716438645791391768",
           "status": "REPEAT",
-          "github": "ardyanrizki"
+          "github": "ardyanrizki",
+          "wakatime": "3337249b-9075-43e5-af03-53c254566864"
         }
       ]
     },
@@ -760,13 +760,13 @@
       "username": "Tratatak",
       "unique": "8350",
       "id": "769414642492768256",
-      "nickname": "Jefri Dimar Y",
       "sheetData": [
         {
           "name": "Jefri Yulastanto",
           "discordId": "769414642492768256",
           "status": "REPEAT",
-          "github": "JefDimar"
+          "github": "JefDimar",
+          "wakatime": "0e3301f7-d225-4cc1-9f9b-a8f8934a1af1"
         }
       ]
     },
@@ -774,13 +774,13 @@
       "username": "Rizky Rahman",
       "unique": "4836",
       "id": "779538493223338024",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Rizky Rahman",
           "discordId": "779538493223338024",
           "status": "REPEAT",
-          "github": "k1man"
+          "github": "k1man",
+          "wakatime": ""
         }
       ]
     },
@@ -788,13 +788,13 @@
       "username": "Kemal",
       "unique": "1138",
       "id": "271433405453828096",
-      "nickname": "Kemal Yusron",
       "sheetData": [
         {
           "name": "Tengku Kemal Yusron Hasibuan",
           "discordId": "271433405453828096",
           "status": "",
-          "github": "kemalyusuke"
+          "github": "kemalyusuke",
+          "wakatime": "c7f79685-d49a-4bb9-bba6-75fedd7bb470"
         }
       ]
     },
@@ -802,13 +802,13 @@
       "username": "Fathan Nurudin",
       "unique": "6956",
       "id": "475297662292197376",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Fathan Nurudin",
           "discordId": "475297662292197376",
           "status": "DROP OUT",
-          "github": "fathannrd"
+          "github": "fathannrd",
+          "wakatime": "f394f16a-8196-4cc9-a6c8-65c135b21069"
         }
       ]
     },
@@ -816,13 +816,13 @@
       "username": "Rofi Akmaluddin",
       "unique": "7564",
       "id": "780078096929652747",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Rofi Akmaluddin",
           "discordId": "780078096929652747",
           "status": "REPEAT",
-          "github": "rofiakmaluddin"
+          "github": "rofiakmaluddin",
+          "wakatime": "3cdb0972-e33f-40af-a512-59eadebe8bb5"
         }
       ]
     },
@@ -830,13 +830,13 @@
       "username": "Robiul tri awali",
       "unique": "0790",
       "id": "769396849442029578",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Mohammad Robiul Tri Awali",
           "discordId": "769396849442029578",
           "status": "DROP OUT",
-          "github": "robiul511"
+          "github": "robiul511",
+          "wakatime": "0332fa92-36b0-4267-adf5-50626a8d9b78"
         }
       ]
     },
@@ -844,13 +844,13 @@
       "username": "Diardo Marendi Krista",
       "unique": "6196",
       "id": "232505256263680000",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Diardo Marendi Krista",
           "discordId": "232505256263680000",
           "status": "REPEAT",
-          "github": "diardomarendikrista"
+          "github": "diardomarendikrista",
+          "wakatime": "e77fb520-0b0e-4e46-a3bb-1828f1283ff9"
         }
       ]
     },
@@ -858,13 +858,13 @@
       "username": "Amilio Asmaramis",
       "unique": "3027",
       "id": "333565764219174912",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Amilio Asmaramis",
           "discordId": "333565764219174912",
           "status": "REPEAT",
-          "github": "amilioasmaramis"
+          "github": "amilioasmaramis",
+          "wakatime": "9d916453-636c-4753-a728-232152ee4c18"
         }
       ]
     },
@@ -872,13 +872,13 @@
       "username": "Adityo Prabowo",
       "unique": "2383",
       "id": "724965383764967476",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Adityo Prabowo",
           "discordId": "724965383764967476",
           "status": "REPEAT",
-          "github": "dithyprabowo51"
+          "github": "dithyprabowo51",
+          "wakatime": "314f76d3-11e2-4202-a6c2-03afbc245cef"
         }
       ]
     },
@@ -886,13 +886,13 @@
       "username": "Amardev Singh",
       "unique": "7993",
       "id": "414604214652895259",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Amardev Singh",
           "discordId": "414604214652895259",
           "status": "REPEAT",
-          "github": "amardevsingh98"
+          "github": "amardevsingh98",
+          "wakatime": ""
         }
       ]
     },
@@ -900,13 +900,13 @@
       "username": "Sutan Arief S.A",
       "unique": "4331",
       "id": "280369073244864513",
-      "nickname": "Sutan Arief S. A",
       "sheetData": [
         {
           "name": "Sutan Arief Sinar Abdurrachman",
           "discordId": "280369073244864513",
           "status": "REPEAT",
-          "github": "sutanarief"
+          "github": "sutanarief",
+          "wakatime": "787bb073-3a00-4855-bc3c-4c0b8cd2aca2"
         }
       ]
     },
@@ -914,13 +914,13 @@
       "username": "Ryan Rumpoko",
       "unique": "1216",
       "id": "486356698768998407",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Ryan Rumpoko",
           "discordId": "486356698768998407",
           "status": "DROP OUT",
-          "github": "RyanRumpoko"
+          "github": "RyanRumpoko",
+          "wakatime": ""
         }
       ]
     },
@@ -928,13 +928,13 @@
       "username": "amgeraldo",
       "unique": "9388",
       "id": "347460658415271936",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Geraldo Geraldo",
           "discordId": "347460658415271936",
           "status": "",
-          "github": "amgeraldo14"
+          "github": "amgeraldo14",
+          "wakatime": "ec3ab513-ad4d-4f34-91d0-1981072747"
         }
       ]
     },
@@ -942,13 +942,13 @@
       "username": "Cakra Bilisairo",
       "unique": "5867",
       "id": "769403550501044224",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Cakra Bilisairo",
           "discordId": "769403550501044224",
           "status": "",
-          "github": "Cakrabilisairo"
+          "github": "Cakrabilisairo",
+          "wakatime": ""
         }
       ]
     },
@@ -956,13 +956,13 @@
       "username": "Enriko Aviyanto Putra",
       "unique": "7664",
       "id": "759727431992737792",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Enriko Aviyanto Putra",
           "discordId": "759727431992737792",
           "status": "REPEAT",
-          "github": "EnrikoAviyantoPutra"
+          "github": "EnrikoAviyantoPutra",
+          "wakatime": "f7a11b50-8001-416c-acbe-4271c0c93bc6"
         }
       ]
     },
@@ -970,13 +970,13 @@
       "username": "Mukti Aji Guno",
       "unique": "9909",
       "id": "462630506702438420",
-      "nickname": null,
       "sheetData": [
         {
           "name": "Mukti Aji Guno",
           "discordId": "462630506702438420",
           "status": "REPEAT",
-          "github": "muktiag29"
+          "github": "muktiag29",
+          "wakatime": "f547daa9-660f-4d0f-a8e6-825b9e11118e"
         }
       ]
     }
