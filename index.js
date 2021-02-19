@@ -8,7 +8,7 @@ const {
   userAndPrefixAuthentication,
   findDiscordAndSheetMembersByPhase,
   validatePhaseTotalMemberByStatus,
-  graduatePhase3Members,
+  graduatePhaseThreeMembers,
   changeStudentRole,
   kickInvalidMembersOrAlumni,
 } = require("./controllers");
@@ -34,9 +34,10 @@ client.on("message", async (message) => {
         findDiscordAndSheetMembersByPhase(message, args);
         break;
       case "graduate":
-        graduatePhase3Members(message);
+        graduatePhaseThreeMembers(message);
         break;
       case "execute":
+        // make sure to run find command before running this command
         changeStudentRole(message, args);
         break;
       case "kick":

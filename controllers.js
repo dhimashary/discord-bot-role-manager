@@ -204,7 +204,7 @@ module.exports = {
       `request done, total on Discord: ${total}, expected: ${expectedData.length}, see terminal for complete log`
     );
   },
-  async graduatePhase3Members(message) {
+  async graduatePhaseThreeMembers(message) {
     try {
       message.channel.send("Wait a minute senpai~");
       const id = await getRoleId(message.guild, "student-phase3");
@@ -307,7 +307,6 @@ module.exports = {
             (student) => student.discordId.trim() === member.user.id
           );
           if (!isExist.length) {
-            console.log(member, "<-----");
             invalidMembers.push(member);
           }
         });
