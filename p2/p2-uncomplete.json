@@ -8,7 +8,7 @@
         {
           "name": "Dzunnurain Achmad",
           "discordId": "779576435101663272",
-          "status": "REPEAT",
+          "status": "PASSED",
           "github": "dzunnurainachmad",
           "wakatime": ""
         }
@@ -22,7 +22,7 @@
         {
           "name": "Ridho Hansyah",
           "discordId": "546681289994928149",
-          "status": "REPEAT",
+          "status": "PASSED",
           "github": "hansyahridho07",
           "wakatime": ""
         }
@@ -36,7 +36,7 @@
         {
           "name": "Yehezkiel Hutagalung",
           "discordId": "727074034499584021",
-          "status": "DROP OUT",
+          "status": "PASSED",
           "github": "ezekielhutagalung",
           "wakatime": ""
         }
@@ -64,7 +64,7 @@
         {
           "name": "Edwin Dharmawan",
           "discordId": "762713277100458004",
-          "status": "DROP OUT",
+          "status": "PASSED",
           "github": "edwindhrmwn",
           "wakatime": ""
         }
@@ -85,20 +85,6 @@
       ]
     },
     {
-      "username": "Hamzah",
-      "unique": "8429",
-      "id": "349363631122546688",
-      "sheetData": [
-        {
-          "name": "Hamzah Yulfian",
-          "discordId": "349363631122546688",
-          "status": "",
-          "github": "hamzahay",
-          "wakatime": "72c8fbfd-219e-4a26-88fa-cc8a4d0d3986"
-        }
-      ]
-    },
-    {
       "username": "amos wijaya",
       "unique": "4513",
       "id": "431073619834044426",
@@ -106,7 +92,7 @@
         {
           "name": "Amos Wijaya",
           "discordId": "431073619834044426",
-          "status": "REPEAT",
+          "status": "PASSED",
           "github": "amoswijaya",
           "wakatime": ""
         }
@@ -120,7 +106,7 @@
         {
           "name": "Daniel Adhi Nugraha",
           "discordId": "180797057211039745",
-          "status": "REPEAT",
+          "status": "PASSED",
           "github": "lumiguia",
           "wakatime": ""
         }
@@ -134,7 +120,7 @@
         {
           "name": "Firman Isnaeni",
           "discordId": "420938537379168258",
-          "status": "REPEAT",
+          "status": "CUTI",
           "github": "firman9979",
           "wakatime": ""
         }
@@ -148,7 +134,7 @@
         {
           "name": "Rio Rheza Harris",
           "discordId": "239744256342884354",
-          "status": "REPEAT",
+          "status": "PASSED",
           "github": "riorhezaharris",
           "wakatime": ""
         }
@@ -162,7 +148,7 @@
         {
           "name": "Budi Muhamad Abdurahman",
           "discordId": "759378114458812436",
-          "status": "",
+          "status": "DROP OUT",
           "github": "budi-rahman",
           "wakatime": ""
         }
@@ -176,7 +162,7 @@
         {
           "name": "FERDIAN ATMADIPUTRA",
           "discordId": "210392802138390528",
-          "status": "REPEAT",
+          "status": "PASSED",
           "github": "ferdianatmadiputra",
           "wakatime": ""
         }
@@ -190,7 +176,7 @@
         {
           "name": "Rizky Rahman",
           "discordId": "779538493223338024",
-          "status": "REPEAT",
+          "status": "PASSED",
           "github": "k1man",
           "wakatime": ""
         }
@@ -218,7 +204,7 @@
         {
           "name": "Amardev Singh",
           "discordId": "414604214652895259",
-          "status": "REPEAT",
+          "status": "PASSED",
           "github": "amardevsingh98",
           "wakatime": ""
         }
@@ -232,23 +218,9 @@
         {
           "name": "Ryan Rumpoko",
           "discordId": "486356698768998407",
-          "status": "DROP OUT",
+          "status": "PASSED",
           "github": "RyanRumpoko",
           "wakatime": ""
-        }
-      ]
-    },
-    {
-      "username": "amgeraldo",
-      "unique": "9388",
-      "id": "347460658415271936",
-      "sheetData": [
-        {
-          "name": "Geraldo Geraldo",
-          "discordId": "347460658415271936",
-          "status": "",
-          "github": "amgeraldo14",
-          "wakatime": "ec3ab513-ad4d-4f34-91d0-1981072747"
         }
       ]
     },
@@ -267,5 +239,5 @@
       ]
     }
   ],
-  "total": 19
+  "total": 17
 }

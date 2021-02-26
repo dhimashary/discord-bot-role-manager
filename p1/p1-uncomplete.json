@@ -1,6 +1,20 @@
 {
   "data": [
     {
+      "username": "Mohammad Fadhil Aiman",
+      "unique": "2906",
+      "id": "383758910583996416",
+      "sheetData": [
+        {
+          "name": "Mohammad Fadhil Aiman",
+          "discordId": "383758910583996416",
+          "status": "",
+          "github": "fadhilaiman",
+          "wakatime": ""
+        }
+      ]
+    },
+    {
       "username": "Risky Dwi",
       "unique": "2411",
       "id": "749705553311432855",
@@ -9,7 +23,7 @@
           "name": "Risky Dwi Omasio",
           "discordId": "749705553311432855",
           "status": "REPEAT",
-          "github": "risky",
+          "github": "risky-dwi-omasio",
           "wakatime": ""
         }
       ]
@@ -22,7 +36,7 @@
         {
           "name": "Masghifari Revy Fadjri",
           "discordId": "646062112053133343",
-          "status": "DROP OUT",
+          "status": "PASSED",
           "github": "masghi63",
           "wakatime": ""
         }
@@ -67,20 +81,6 @@
           "status": "DROP OUT",
           "github": "dianrp22",
           "wakatime": ""
-        }
-      ]
-    },
-    {
-      "username": "Rangga Eki Syahrial",
-      "unique": "5549",
-      "id": "492852833809465344",
-      "sheetData": [
-        {
-          "name": "Rangga syahrial",
-          "discordId": "492852833809465344",
-          "status": "REPEAT",
-          "github": "",
-          "wakatime": "e3bd8818-b742-492e-a6b2-80ef2618f0c1"
         }
       ]
     }
