@@ -386,7 +386,7 @@
         {
           "name": "Krisna Krisna",
           "discordId": "795526035009568809",
-          "status": "",
+          "status": "PASSED",
           "github": "krisnakris",
           "wakatime": "9d4cfd63-bdb3-4846-89f3-febf7d85a834"
         }
@@ -820,7 +820,7 @@
         {
           "name": "Bambang Arif Susilo",
           "discordId": "780153329660723220",
-          "status": "DROP OUT",
+          "status": "WITHDRAW",
           "github": "arifnex-99",
           "wakatime": "c274c76a-705e-4e74-b87e-c6841c4433af"
         }

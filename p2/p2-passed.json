@@ -659,6 +659,20 @@
       ]
     },
     {
+      "username": "Kemal",
+      "unique": "1138",
+      "id": "271433405453828096",
+      "sheetData": [
+        {
+          "name": "Tengku Kemal Yusron Hasibuan",
+          "discordId": "271433405453828096",
+          "status": "PASSED",
+          "github": "kemalyusuke",
+          "wakatime": "c7f79685-d49a-4bb9-bba6-75fedd7bb470"
+        }
+      ]
+    },
+    {
       "username": "Rofi Akmaluddin",
       "unique": "7564",
       "id": "780078096929652747",
@@ -771,6 +785,20 @@
       ]
     },
     {
+      "username": "Cakra Bilisairo",
+      "unique": "5867",
+      "id": "769403550501044224",
+      "sheetData": [
+        {
+          "name": "Cakra Bilisairo",
+          "discordId": "769403550501044224",
+          "status": "PASSED",
+          "github": "Cakrabilisairo",
+          "wakatime": ""
+        }
+      ]
+    },
+    {
       "username": "Enriko Aviyanto Putra",
       "unique": "7664",
       "id": "759727431992737792",
@@ -799,5 +827,5 @@
       ]
     }
   ],
-  "total": 57
+  "total": 59
 }

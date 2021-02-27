@@ -183,20 +183,6 @@
       ]
     },
     {
-      "username": "Kemal",
-      "unique": "1138",
-      "id": "271433405453828096",
-      "sheetData": [
-        {
-          "name": "Tengku Kemal Yusron Hasibuan",
-          "discordId": "271433405453828096",
-          "status": "",
-          "github": "kemalyusuke",
-          "wakatime": "c7f79685-d49a-4bb9-bba6-75fedd7bb470"
-        }
-      ]
-    },
-    {
       "username": "Amardev Singh",
       "unique": "7993",
       "id": "414604214652895259",
@@ -232,12 +218,12 @@
         {
           "name": "Cakra Bilisairo",
           "discordId": "769403550501044224",
-          "status": "",
+          "status": "PASSED",
           "github": "Cakrabilisairo",
           "wakatime": ""
         }
       ]
     }
   ],
-  "total": 17
+  "total": 16
 }

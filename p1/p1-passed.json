@@ -197,6 +197,20 @@
       ]
     },
     {
+      "username": "krisnakris",
+      "unique": "3252",
+      "id": "795526035009568809",
+      "sheetData": [
+        {
+          "name": "Krisna Krisna",
+          "discordId": "795526035009568809",
+          "status": "PASSED",
+          "github": "krisnakris",
+          "wakatime": "9d4cfd63-bdb3-4846-89f3-febf7d85a834"
+        }
+      ]
+    },
+    {
       "username": "Mahesa Nur Alamsyah",
       "unique": "0439",
       "id": "549410191884550193",
@@ -589,5 +603,5 @@
       ]
     }
   ],
-  "total": 42
+  "total": 43
 }

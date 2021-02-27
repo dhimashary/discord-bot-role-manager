@@ -57,20 +57,6 @@
       ]
     },
     {
-      "username": "krisnakris",
-      "unique": "3252",
-      "id": "795526035009568809",
-      "sheetData": [
-        {
-          "name": "Krisna Krisna",
-          "discordId": "795526035009568809",
-          "status": "",
-          "github": "krisnakris",
-          "wakatime": "9d4cfd63-bdb3-4846-89f3-febf7d85a834"
-        }
-      ]
-    },
-    {
       "username": "Dian Rizki Pratama",
       "unique": "2658",
       "id": "706935060565327952",
@@ -85,5 +71,5 @@
       ]
     }
   ],
-  "total": 6
+  "total": 5
 }

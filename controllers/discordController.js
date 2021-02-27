@@ -1,5 +1,5 @@
 const axios = require("axios");
-const requestConfig = require("./request-config.json");
+const requestConfig = require("../request-config.json");
 const fs = require("fs");
 const {
   roleId,
@@ -8,7 +8,7 @@ const {
   kickMembers,
   updatedRoleId,
   getMembersWithRole,
-} = require("./util");
+} = require("../util");
 
 module.exports = {
   userAndPrefixAuthentication(message, prefix) {
@@ -153,7 +153,7 @@ module.exports = {
         `${args[0]}/${args[0]}-cuti.json`,
         JSON.stringify({ data: cutiMember, total: cutiMember.length }, null, 2)
       );
-      return message.channel.send("request done");
+      return message.channel.send("request fetch done");
     } catch (error) {
       console.log(error);
       return message.channel.send(

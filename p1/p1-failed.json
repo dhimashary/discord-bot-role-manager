@@ -55,21 +55,7 @@
           "wakatime": "7e7c4c2d-3487-486d-ab5d-123cf6fbd63c"
         }
       ]
-    },
-    {
-      "username": "Bambang Arif Susilo",
-      "unique": "5163",
-      "id": "780153329660723220",
-      "sheetData": [
-        {
-          "name": "Bambang Arif Susilo",
-          "discordId": "780153329660723220",
-          "status": "DROP OUT",
-          "github": "arifnex-99",
-          "wakatime": "c274c76a-705e-4e74-b87e-c6841c4433af"
-        }
-      ]
     }
   ],
-  "total": 5
+  "total": 4
 }

@@ -11,7 +11,9 @@ const {
   graduatePhaseThreeMembers,
   changeStudentRole,
   kickInvalidMembersOrAlumni,
-} = require("./controllers");
+} = require("./controllers/discordController");
+
+const { removeFromOrganization } = require("./controllers/githubController");
 
 const { getArgs, getCommand } = require("./util");
 
@@ -43,6 +45,9 @@ client.on("message", async (message) => {
       case "kick":
         // make sure to run find command before running this command
         kickInvalidMembersOrAlumni(message, args);
+        break;
+      case "git:rm":
+        removeFromOrganization(message, args[0], args[1]);
         break;
       default:
         break;

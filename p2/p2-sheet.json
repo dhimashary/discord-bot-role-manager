@@ -129,7 +129,7 @@
     {
       "name": "Cakra Bilisairo",
       "discordId": "769403550501044224",
-      "status": "",
+      "status": "PASSED",
       "github": "Cakrabilisairo",
       "wakatime": ""
     },
@@ -248,7 +248,7 @@
     {
       "name": "Tengku Kemal Yusron Hasibuan",
       "discordId": "271433405453828096",
-      "status": "",
+      "status": "PASSED",
       "github": "kemalyusuke",
       "wakatime": "c7f79685-d49a-4bb9-bba6-75fedd7bb470"
     },
