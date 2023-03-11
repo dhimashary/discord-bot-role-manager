@@ -206,7 +206,7 @@ module.exports = {
   },
   async graduatePhaseThreeMembers(message) {
     try {
-      message.channel.send("Wait a minute senpai~");
+      message.channel.send("Wait a minute ...");
       const id = await getRoleId(message.guild, "student-phase3");
       const updateToId = await getRoleId(message.guild, "student-alumni");
       const members = await getMembersWithRole(message.guild, id);
@@ -230,7 +230,7 @@ module.exports = {
           "invalid second param only failed, passed is valid"
         );
       }
-      message.channel.send("proccessing request Oniichan~");
+      message.channel.send("proccessing request ...");
       // student-new
       const id = await roleId(message.guild, args[0]);
       const updateToId = await updatedRoleId(message.guild, args[0]);
